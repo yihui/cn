@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 读完了"Using R for Data Analysis and Graphics"
+title: 读完了Using R for Data Analysis and Graphics
 categories:
 - R language
 tags:

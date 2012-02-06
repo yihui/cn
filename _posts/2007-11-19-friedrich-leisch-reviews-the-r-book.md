@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Friedrich Leisch评"The R Book"
+title: Friedrich Leisch评The R Book
 categories:
 - Life
 tags:
