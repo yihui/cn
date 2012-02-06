@@ -1,4 +1,4 @@
-markdown: redcarpet
+markdown: rdiscount
 permalink: /:year/:month/:title/
 url: http://yihui.name/cn
 author: 谢益辉
