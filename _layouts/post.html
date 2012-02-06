@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<section class="post">
+{{ content }}
+</section>
+<section class="meta">
+<span class="author">
+  <a href="http://yihui.name">{{ site.author }}</a>
+</span>
+<span class="time">
+  /
+  <time datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date:"%Y-%m-%d" }}</time>
+</span>
+<br />
+{% if page.categories %}
+<span class="categories">
+  Published in categories
+  {% for cat in page.categories %}
+  <a href="{{ site.url }}/categories/#{{ cat }}" title="{{ cat }}">{{ cat }}</a>&nbsp;
+  {% endfor %}
+</span>
+{% endif %}
+{% if page.tags %}
+<span class="tags">
+  tagged with 
+  {% for tag in page.tags %}
+  <a href="{{ site.url }}/tags/#{{ tag }}" title="{{ tag }}">{{ tag }}</a>&nbsp;
+  {% endfor %}
+</span>
+{% endif %}
+</section>
+{% include comments.md %}
+

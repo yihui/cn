@@ -1,0 +1,5 @@
+markdown: redcarpet
+permalink: /:year/:month/:title/
+url: http://yihui.name/cn
+author: 谢益辉
+
