@@ -7,11 +7,8 @@
     <link rel="shortcut icon" href="/favicon.ico">
     <link href="{{ site.url }}/feed/" rel="alternate" title="{{ site.author }}" type="application/atom+xml" />
     <link rel="stylesheet" href="/media/css/style.css">
-    <link rel="stylesheet" href="/media/css/github.css">
-    <script type="text/javascript" src="/media/js/highlight.pack.js"></script>
-    <script type="text/javascript">
-      hljs.initHighlightingOnLoad();
-    </script>
+    <link rel="stylesheet" href="/media/css/highlight.css">
+    <script type="text/javascript" src="/media/js/jquery-1.7.1.min.js"></script>
   </head>
   <body>
     <div id="container">
@@ -21,17 +18,16 @@
         </header>
         <nav>
         <span><a title="home page" class="" href="{{ site.url }}/">home</a></span>
-        <span><a title="about" class="" href="{{ site.url }}/about/">about me</a></span>
+        <span><a title="about" class="" href="{{ site.url }}/about/">about</a></span>
         <span><a title="publication" class="" href="{{ site.url }}/publication/">publication</a></span>
         <span><a title="guestbook" class="" href="{{ site.url }}/guestbook/">guestbook</a></span>
         <span><a title="vitae" class="" href="{{ site.url }}/vitae/">vitae</a></span>
         <span><a title="categories" class="" href="{{ site.url }}/categories/">categories</a></span>
         <span><a title="tags" class="" href="{{ site.url }}/tags/">tags</a></span>
         <span><a title="links" class="" href="{{ site.url }}/links/">links</a></span>
-        <span><a title="subscribe me" class="" href="{{ site.url }}/feed/">feed</a></span>
+        <span><a title="subscribe by RSS" class="" href="{{ site.url }}/feed/">subscribe</a></span>
         </nav>
         <article class="content">
-        <blockquote>THIS SITE IS STILL UNDER CONSTRUCTION. PLEASE COME BACK AFTER THIS NOTICE IS REMOVED. THANKS!</blockquote>
         {{ content }}
         </article>
       </div>
