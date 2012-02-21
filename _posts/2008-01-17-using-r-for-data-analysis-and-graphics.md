@@ -5,12 +5,10 @@ categories:
 - R language
 tags:
 - John Maindonald
-- R
 - R文档
 ---
 
 花了两个晚上总算第一次读完一份R文档，这是R官方网站上Contributed Documentation中列在第一位的文档：
-
 
 > **“Using R for Data Analysis and Graphics - Introduction, Examples and Commentary”** by John Maindonald ([PDF](http://cran.r-project.org/doc/contrib/usingR-2.pdf), data sets and scripts are available at [JM's homepage](http://wwwmaths.anu.edu.au/%7Ejohnm/)).
 

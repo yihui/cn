@@ -19,4 +19,4 @@ tags:
 
 答曰：介个还要解释吗？Permanent Head Damage！复习去了，不废话了。
 
-又及：我得重新声明一下，我一般不优先回答直接发我邮箱的R问题（[解释参见FAQ](http://yihui.name/cn/guestbook/)），尤其是在这段时间我几乎不会回答，所有问题请发论坛（[http://cos.name/cn/](http://cos.name/cn/)）。
+又及：我得重新声明一下，我一般不优先回答直接发我邮箱的R问题（[解释参见FAQ](http://yihui.name/cn/guestbook/)），尤其是在这段时间我几乎不会回答，所有问题请发论坛（<http://cos.name/cn/>）。
