@@ -19,4 +19,7 @@ Processing语言的作者为Casey Reas和Benjamin Fry（MIT的家伙），他们
 
 有一位叫John Resig的家伙呢，他觉得Processing的运行需要Java环境，这样对用户要求似乎高了点（实际上这个要求已经很低啦），于是乎，这个小伙子花了几天时间（也许是几个月吧）把Processing整个移植到了[一段JavaScript](http://ejohn.org/blog/processingjs/)中，这样的话只需要浏览器支持JavaScript就足够了（这简直不是什么要求）。你不得不承认，世界上有很多疯子和神，而且很年轻，这个疯子看照片就二十多岁的样子，已经写了一个大函数库和一本书；他的第二本书居然取名叫做《JavaScript忍者秘笈》。
 
-不知各位听我罗嗦了半天昏昏欲睡的看官看了这些东西之后是不是也有点战斗欲望呢？![](http://yihui.name/cn/wp-content/uploads/bo/emot/grin.gif)
+不知各位听我罗嗦了半天昏昏欲睡的看官看了这些东西之后是不是也有点战斗欲望呢？
+
+> 2012/03/15更新：四年后我再来看，发现这个项目已经成长为专门的网站了 <http://processingjs.org/> 而且居然有在线IDE！
+
