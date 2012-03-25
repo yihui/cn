@@ -19,91 +19,53 @@ tags:
 
 会议演讲基本上一个都没听懂，不过结识了统计图形界的一些大爷大伯大娘大叔大婶大哥大姐（貌似没有小弟小妹了），也许在不久的未来，洒家还能争取到机会去美国加拿大拜访他们。
 
-有空上两张照片。（依照惯例，点击看大图，不用交待了吧？）
+有空上两张照片。
 
+![](http://i.imgur.com/vMIpK.jpg)
 
-[![](http://yihui.name/cn/wp-content/uploads/1214868997_0.jpg)](http://yihui.name/cn/wp-content/uploads/1214868997_1.jpg)
+![](http://i.imgur.com/RRFyL.jpg)
 
+![](http://i.imgur.com/ZgjTR.jpg)
 
+![](http://i.imgur.com/clqwm.jpg)
 
+![](http://i.imgur.com/R4FaL.jpg)
 
-[![](http://yihui.name/cn/wp-content/uploads/1214869170_0.jpg)](http://yihui.name/cn/wp-content/uploads/1214869170_1.jpg)
+![](http://i.imgur.com/8d1AD.jpg)
 
+![](http://i.imgur.com/NDVcH.jpg)
 
+![](http://i.imgur.com/F7Rmu.jpg)
 
+![](http://i.imgur.com/AYkXe.jpg)
 
-[![](http://yihui.name/cn/wp-content/uploads/1214868759_0.jpg)](http://yihui.name/cn/wp-content/uploads/1214868759_1.jpg)
+![](http://i.imgur.com/gYFQy.jpg)
 
+![](http://i.imgur.com/4hKse.jpg)
 
+![](http://i.imgur.com/T59v8.jpg)
 
+![](http://i.imgur.com/Hnis6.jpg)
 
-[![](http://yihui.name/cn/wp-content/uploads/1214869342_0.jpg)](http://yihui.name/cn/wp-content/uploads/1214869342_1.jpg)
+![](http://i.imgur.com/bt9NS.jpg)
 
+![](http://i.imgur.com/TcaiC.jpg)
 
+![](http://i.imgur.com/GV974.jpg)
 
+![](http://i.imgur.com/GTSAC.jpg)
 
-[![](http://yihui.name/cn/wp-content/uploads/1214869715_0.jpg)](http://yihui.name/cn/wp-content/uploads/1214869715_1.jpg)
-
-
-
-
-[![](http://yihui.name/cn/wp-content/uploads/1214870132_0.jpg)](http://yihui.name/cn/wp-content/uploads/1214870132_1.jpg)
-
-
-
-
-[![](http://yihui.name/cn/wp-content/uploads/1214979395_0.jpg)](http://yihui.name/cn/wp-content/uploads/1214979395_1.jpg)
-
-
-
-
-
-
-
-[![](http://yihui.name/cn/wp-content/uploads/1214978737_0.jpg)](http://yihui.name/cn/wp-content/uploads/1214978737_1.jpg) [![](http://yihui.name/cn/wp-content/uploads/1214978759_0.jpg)](http://yihui.name/cn/wp-content/uploads/1214978759_1.jpg)
-
-
-
-
-[![](http://yihui.name/cn/wp-content/uploads/1214978937_0.jpg)](http://yihui.name/cn/wp-content/uploads/1214978937_1.jpg) [![](http://yihui.name/cn/wp-content/uploads/1214978960_0.jpg)](http://yihui.name/cn/wp-content/uploads/1214978960_1.jpg)
-
-
-
-
-[![](http://yihui.name/cn/wp-content/uploads/1214978982_0.jpg)](http://yihui.name/cn/wp-content/uploads/1214978982_1.jpg) [![](http://yihui.name/cn/wp-content/uploads/1214978997_0.jpg)](http://yihui.name/cn/wp-content/uploads/1214978997_1.jpg)
-
-
-
-
-[![](http://yihui.name/cn/wp-content/uploads/1214979017_0.jpg)](http://yihui.name/cn/wp-content/uploads/1214979017_1.jpg) [![](http://yihui.name/cn/wp-content/uploads/1214979154_0.jpg)](http://yihui.name/cn/wp-content/uploads/1214979154_1.jpg)
-
-
-
-
-[![](http://yihui.name/cn/wp-content/uploads/1214979174_0.jpg)](http://yihui.name/cn/wp-content/uploads/1214979174_1.jpg) [![](http://yihui.name/cn/wp-content/uploads/1214979301_0.jpg)](http://yihui.name/cn/wp-content/uploads/1214979301_1.jpg)
-
-
-
-
-[![](http://yihui.name/cn/wp-content/uploads/1214984572_0.jpg)](http://yihui.name/cn/wp-content/uploads/1214984572_1.jpg)
-
-
+![](http://i.imgur.com/pa0Aj.jpg)
 
 我自己没怎么照相，只是和参会者照了一些合影，就不放上来了。等会议全体合影寄过来之后再放一张大合影。
 
+![不莱梅归来](http://i.imgur.com/48iA6.jpg)
 
-[![](http://yihui.name/cn/wp-content/uploads/1222573669_0.jpg)](http://yihui.name/cn/wp-content/uploads/1222573669_1.jpg)
-
-
-
-
-**流水账游记**
-
-
+## 流水账游记
 
 第一次出国，感受颇多，毕竟那是一个从未到过的陌生世界。
 
-在国内开会的时候，每次老外们过来我们都会找人去机场接送，这次我过去一路都是自己找，当时出了不莱梅机场之后看着路牌上的德文地名简直有点傻眼，根本搞不清楚去中心火车站是走左边还是走右边。后来对着Adi给我的提示仔细看，才慢慢明白了方向，找了个土耳其人确认了一下，顺便问了一下在哪儿买电车票（土人啊），那位大哥告诉我上车买，于是乎等了几分钟上了有轨电车（tram），每节车厢都有自动售票机，我看着德文又傻眼了，切换到米字旗的界面，发现还是很懵，因为地名实在让人犯晕，于是干脆让土耳其大哥帮我操作，这才投币买了票。![](http://yihui.name/cn/wp-content/uploads/bo/emot/sweat.gif)
+在国内开会的时候，每次老外们过来我们都会找人去机场接送，这次我过去一路都是自己找，当时出了不莱梅机场之后看着路牌上的德文地名简直有点傻眼，根本搞不清楚去中心火车站是走左边还是走右边。后来对着Adi给我的提示仔细看，才慢慢明白了方向，找了个土耳其人确认了一下，顺便问了一下在哪儿买电车票（土人啊），那位大哥告诉我上车买，于是乎等了几分钟上了有轨电车（tram），每节车厢都有自动售票机，我看着德文又傻眼了，切换到米字旗的界面，发现还是很懵，因为地名实在让人犯晕，于是干脆让土耳其大哥帮我操作，这才投币买了票。
 
 从机场乘电车到不莱梅中心火车站，还得买从火车站到Sch?nebeck的火车票，找了车站里的一位大叔帮我在自动售票机上买了，又问了服务的大姐上哪儿坐车，那时候刚好有一趟车还有两分钟就开了，结果我晕里西乎跑到站台上也搞不清是哪趟车（也没准儿等我跑过去已经走了），凭直觉跳上一趟车问一位大爷，大爷不懂英语，在一番疯狂的手语交流之后我明白了那趟车不是开往Jacobs那边的，于是下来再在站台上问买东西的小贩，小贩不懂英文，又找车站的服务员，才告诉我在哪个站台几点开车，这才明白。
 
@@ -113,7 +75,7 @@ tags:
 
 第一天下午去了Di他们的GGobi开发小组听了听他们的讨论，几乎啥都没听懂，心中甚是郁闷，看见Michael的Emacs用得相当熟练，算是见识到了传说中的Linux程序员的最爱是什么样了。Debbie送了我一件上一届R会议的T恤，穿着还挺合身，后来我和她说了说我的动画网站和animation包。
 
-吃过晚饭到了get-togeter的时间就觉得又累又困，所以在聚会的地方和人简单聊了聊就和一个Maryland大学的学生一起回公寓了。第一天晚上心情颇为郁郁，在国内讲英文或者开英文会议感觉不到这种氛围，当你真正处在一群外国人中间时，便觉得语言还真是一个问题。其中最为郁闷的是听不懂笑话，每当别人大笑时自己就愣在那儿，不知道人家笑啥。![](http://yihui.name/cn/wp-content/uploads/bo/emot/stupid.gif)
+吃过晚饭到了get-togeter的时间就觉得又累又困，所以在聚会的地方和人简单聊了聊就和一个Maryland大学的学生一起回公寓了。第一天晚上心情颇为郁郁，在国内讲英文或者开英文会议感觉不到这种氛围，当你真正处在一群外国人中间时，便觉得语言还真是一个问题。其中最为郁闷的是听不懂笑话，每当别人大笑时自己就愣在那儿，不知道人家笑啥。
 
 后面几天几乎一天到晚开会听报告，长了一些见识，不过口语还是听不太懂，看来那些天眼睛出问题确实是老天提醒我要练习听力，可惜我没听……会上认识了另外一些传说中的人物，包括写Grammar of Graphics的Lee、R团队里的Friedrich（大胖子啊大胖子）、AT&T的Simon（也是R团队成员）等等。
 
@@ -124,3 +86,4 @@ tags:
 从Jacobs大学离开的时候突然下了一场大雨，Hao和我一路往校门口狂奔，路上我看见Adi在往餐厅跑，跟他说了声再见，并补充了一句说"God is crying on my departure"，他大笑着跑过。就这样本落汤鸡奔到了火车站，雨就停了，NND，早不下晚不下，偏偏我走的这几分钟就下雨……
 
 总体来说，不莱梅确实是个漂亮的小城，气候宜人，环境整洁，空气清新。我坐着电车在大街小巷弯弯曲曲行驶时，看着那些古典建筑，心中甚是喜欢。而坐着火车在小森林中穿过时，突然间也会有哈利波特中的那种感觉，仿佛火车穿过森林就开往某所魔法学校了。等我回到北京，看了中文介绍，才想起格林童话中《不莱梅的音乐家》，在那边老听他们说什么musician，愣是没想起来这篇童话，直到回来才明白过来那驴、狗、猫、鸡是怎么回事。
+

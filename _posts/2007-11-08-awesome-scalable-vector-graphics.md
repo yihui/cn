@@ -17,3 +17,4 @@ tags:
 装好Adobe SVG Viewer之后观看了SVG动画片，果然是太牛了！！相比之下我的animation包太老土了，苍天啊，为什么计算机技术进步这么快。
 
 看样子下一步我得考虑SVG格式的动画片了（趁现在它还没有火爆起来），grid graphics也是一大重点。
+
