@@ -18,6 +18,7 @@ tags:
 
 --------------
 
-下周事务：海关的讲座（*）、统计局的人口课题（*****）、发酵院的程序（****）、Bootstrap的综述论文（***）、继续动画片网站（*）、构思[IASC2008](http://www.iasc-ars.org/IASC2008/index.html)会议论文的框架顺便考虑将初步成果投给[JDA](http://bidm.stat.fju.edu.tw/jda/)一篇英文论文（***）、推进Time Series的学习（*）。
+下周事务：海关的讲座（`*`）、统计局的人口课题（`*****`）、发酵院的程序（`****`）、Bootstrap的综述论文（`***`）、继续动画片网站（`*`）、构思[IASC2008](http://www.iasc-ars.org/IASC2008/index.html)会议论文的框架顺便考虑将初步成果投给[JDA](http://bidm.stat.fju.edu.tw/jda/)一篇英文论文（`***`）、推进Time Series的学习（`*`）。
 
 我脑子里总是成天冒出很多很多主意，想法太多，真痛苦。挺想参加[useR! 2008](http://www.statistik.uni-dortmund.de/useR-2008/)的，可还没想到一个合适的论文点子。明年的[京津地区青年概率统计研讨会](http://math.bnu.edu.cn/statprob/Confs/11thYouth-3.doc)也想参加。想把那份《“统计之都”月度集萃》刊物办起来，又没时间构想和找帮手组织团队。想组织一个统计方法模型学习小组，把统计方法研究透彻，暂时也没时间构想。主啊，菩萨啊，以及Almighty God，赐予我时间和合作者吧。
+

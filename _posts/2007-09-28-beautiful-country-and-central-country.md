@@ -12,4 +12,5 @@ tags:
 
 下次要是有老外问Law Country、Moral Country、Hero Country怎么办……
 
-好了，作了半天心理准备，终于要开始痛苦地修改以前的程序了。![](http://yihui.name/cn/wp-content/uploads/bo/emot/fear.gif)
+好了，作了半天心理准备，终于要开始痛苦地修改以前的程序了。
+
