@@ -1,23 +1,25 @@
 ---
 ---
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
- <title>{{ site.author }}</title>
- <link href="{{ site.url }}/feed/" rel="self"/>
- <link href="http://yihui.name/"/>
- <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://yihui.name/</id>
- <author>
-   <name>Yihui Xie</name>
-   <email>xie@yihui.name</email>
- </author>
- {% for post in site.posts limit:10 %}
- <entry>
-   <title>{{ post.title }}</title>
-   <link href="{{ site.url }}{{ post.url }}"/>
-   <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>{{ site.url }}{{ post.id }}</id>
-   <content:encoded><![CDATA[{{ post.content }}]]></content:encoded>
- </entry>
- {% endfor %}
-</feed>
+  <rss version="2.0"
+        xmlns:content="http://purl.org/rss/1.0/modules/content/"
+        xmlns:atom="http://www.w3.org/2005/Atom"
+  >
+  <channel>
+    <title>{{ site.author }}</title>
+    <link href="{{ site.url }}/feed/" rel="self" />
+    <link href="http://yihui.name/" />
+    <lastBuildDate>{{ site.time | date_to_xmlschema }}</lastBuildDate>
+    <webMaster>xie@yihui.name</webMaster>
+    {% for post in site.posts limit:10 %}
+    <item>
+      <title>{{ post.title | xml_escape }}</title>
+      <link href="{{ site.url }}{{ post.url }}"/>
+      <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
+      <author>{{ site.author }}</author>
+      <guid>{{ site.url }}{{ post.id }}</guid>
+      <content:encoded><![CDATA[{{ post.content }}]]></content:encoded>
+    </item>
+    {% endfor %}
+  </channel>
+</rss>
