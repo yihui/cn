@@ -13,7 +13,7 @@ tags:
 
 我花了一个星期的成果终于提交了第一个版本，现在我的"animation"包已经在CRAN主站上了：
 
-[http://cran.r-project.org/package=animation](http://cran.r-project.org/package=animation)
+<http://cran.r-project.org/package=animation>
 
 现在Package source和Windows binary都已经出来了。这个包完全是用R语言写的，所以每个函数都可以直接查看源代码；若有Bug请向我报告，多谢。
 
@@ -22,3 +22,4 @@ tags:
 详情请参考包里的Vignette文档（写得很罗嗦）。
 
 P.S. 下一步的工作除了添加更多的动画展示函数以外，还得考虑SVG格式，我预感这种格式一两年之内肯定会火爆起来的。尤其是在网络上，矢量图形绝对是王道（文件小、清晰、可以和计算融合）。
+
