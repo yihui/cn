@@ -23,3 +23,4 @@ tags:
 P.S. 1 今天看到Ensemble的鼻祖竟然是John Tukey，他那本"**Exploratory Data Analysis**"真是孕育了不少思想。
 
 P.S. 2 眼看着[useR! 2008](http://www.statistik.uni-dortmund.de/useR-2008/)还有六天就可以开始提交论文摘要了，到现在还一点正式的想法都没有。晕。等我写完生存分析的论文我得马上把我的动画论文写完投出去了（试试Teaching Statistics），然后考虑useR!的论文，然后赶紧把我的animation包升级一下；如果还有空，就该考虑明年IASC的那个会了。
+
