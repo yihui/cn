@@ -14,8 +14,7 @@ tags:
 
 “饿灵灵扒”的意思是：
 
-（1）Steve Jobs: Stay **Hungry**, Stay Foolish
+1. Steve Jobs: Stay **Hungry**, Stay Foolish
+2. colinisstudent: 天**灵灵**，地**灵灵**
+3. 在统计的领域继续**扒**，扒方向、扒人。
 
-（2）colinisstudent: 天**灵灵**，地**灵灵**
-
-（3）在统计的领域继续**扒**，扒方向、扒人。
