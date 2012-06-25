@@ -23,7 +23,7 @@ tags:
 以下两图是对[前面提到过的CANDLE数据](/cn/2008/10/birthday-present-to-felix-andrews/)的playwith展示：
 
 
-![](http://i.imgur.com/8I7Jh.png)]
+![](http://i.imgur.com/8I7Jh.png)
 
 ![](http://i.imgur.com/NnGgZ.png)
 
