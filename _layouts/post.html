@@ -38,6 +38,7 @@ layout: default
 <script type="text/javascript">
 $(function(){
   $(document).keydown(function(e) {
+    if (e.target.nodeName.toUpperCase() != 'BODY') return;
     var url = false;
         if (e.which == 37 || e.which == 74) {  // Left arrow and J
             {% if page.previous %}
