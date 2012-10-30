@@ -17,12 +17,5 @@ tags:
 
 相关论文：
 
-
-
-	
-  * [Computation of the multivariate Oja median](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.3.2494)（只是草稿，非正式论文）
-
-	
-  * [Multivariate analysis by data depth: descriptive statistics, graphics and inference, (with discussion and a rejoinder by Liu and Singh)](http://projecteuclid.org/DPubS?service=UI&version=1.0&verb=Display&handle=euclid.aos/1018031260)
-
-
+- [Computation of the multivariate Oja median](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.3.2494)（只是草稿，非正式论文）
+- [Multivariate analysis by data depth: descriptive statistics, graphics and inference, (with discussion and a rejoinder by Liu and Singh)](http://projecteuclid.org/DPubS?service=UI&version=1.0&verb=Display&handle=euclid.aos/1018031260)

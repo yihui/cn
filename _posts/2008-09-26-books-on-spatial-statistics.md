@@ -1,10 +1,8 @@
 ---
 layout: post
 title: 国内关于空间统计学的书及国外的部分材料
-categories:
-- Statistics
-tags:
-- 空间统计学
+categories: [Statistics]
+tags: [空间统计学]
 ---
 
 在China-Pub、当当、Amazon.cn都搜索了一下，发现国内似乎没有空间统计学的专著。这是一个好机会，严肃考虑一下要不要放下我的统计图形书，先写一本空间统计学与R应用的书。正好也让导师大人少操一份心，不用天天发愁弟子们没有拿得出手的货。
