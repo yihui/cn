@@ -16,7 +16,6 @@ tags:
 
 > ...and your test helped me slay the fear that something had gone horribly wrong with my desktop PC. ?I award you the _rgl Medal of Valor_. ;-)...
 
-
-Michael是统计图形届的大牛，获此口头奖章本小子也很是高兴。后来他另写一封邮件说，小贼（第一声），大爷受你在不莱梅演讲的启发，近日[也开始玩动画](http://euclid.psych.yorku.ca/SCS/Gallery/Test/rgl-animations.ppt)了。
+Michael是统计图形界的大牛，获此口头奖章本小子也很是高兴。后来他另写一封邮件说，小贼（第一声），大爷受你在不莱梅演讲的启发，近日[也开始玩动画](http://euclid.psych.yorku.ca/SCS/Gallery/Test/rgl-animations.ppt)了。
 
 话说回来，rgl这个包牵涉到大量的C和C++代码，还有png库，编译起来很麻烦，R-forge的环境可能不能成功编译，所以那上面的rgl包会有问题，我还奇怪为什么它没有编译日志呢。
