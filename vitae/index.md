@@ -106,6 +106,7 @@ Email：xie@yihui.name；主页：<http://yihui.name/>
 
 # 演讲和讲座
 
+- 谢益辉，2012，_Can You Reproduce Your Homework?_，Department of Biostatistics，Johns Hopkins Bloomberg School of Public Health，巴尔的摩，马里兰（[幻灯片](http://yihui.name/slides/2012-reproduce-homework.html)）
 - 谢益辉，2012，_I web, therefore I am_，爱荷华州立大学统计计算组（[幻灯片](http://yihui.name/slides/2012-stats-web.html)）
 - 谢益辉，2012，_Dynamic Report Generation and Interactive Graphics on the Web_，AT&T实验室暑期实习报告，Florham Park，新泽西州
 - 谢益辉，2012，_cranvas: A New Package for Interactive Statistical Graphics in R_，Joint Statistical Meetings，圣地亚哥，加州
