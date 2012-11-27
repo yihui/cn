@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2010 John Chambers奖得主及评奖感想
-categories:[Featured, Statistics, Life]
+categories: [Featured, Statistics, Life]
 tags: [bigmemory, John Chambers, John Chambers奖, LaTeX, Word, 表达, 评奖]
 ---
 
