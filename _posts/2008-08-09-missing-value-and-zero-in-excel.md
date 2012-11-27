@@ -12,5 +12,6 @@ tags:
 
 假设单元格A1为空，那么若在B1中写公式 "=A1" 的话，则B1=0，显然这是不对的。在捣腾数据的时候慎用Excel。
 
+![](http://i.imgur.com/8aANA.gif)
 
-![](http://yihui.name/cn/wp-content/uploads/1218274874_0.gif) ![](http://yihui.name/cn/wp-content/uploads/1218274874_1.gif)
+![](http://i.imgur.com/uNECG.gif)

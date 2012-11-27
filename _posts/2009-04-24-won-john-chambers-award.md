@@ -1,14 +1,8 @@
 ---
 layout: post
 title: 本小子还真中了John Chambers软件奖
-categories:
-- R language
-tags:
-- animation
-- John Chambers
-- R
-- 动画
-- 统计软件
+categories: [R language]
+tags: [animation, John Chambers, R, 动画, 统计软件]
 ---
 
 此时此刻，俺哆嗦着告诉各位客官，俺真的中奖了。

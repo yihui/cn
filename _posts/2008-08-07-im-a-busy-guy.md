@@ -1,11 +1,8 @@
 ---
 layout: post
 title: 热锅上的猪头
-categories:
-- Life
-tags:
-- 一团糟
-- 忙碌
+categories: [Life]
+tags: [一团糟, 忙碌]
 ---
 
 过两天就要去Dortmund参加useR! 2008了，到现在幻灯片都还没准备，连讲什么都没想。路线也没看，怎么去旅馆也没查，Dortmund到Frankfurt、Augsburg到Dusseldorf的火车票也没定，机场、火车站怎么走都没看。这下去德国可真是要晕菜了！

@@ -9,15 +9,9 @@ tags:
 
 今天看[一篇论文](http://www.agresearch.co.nz/downloads/graphics/Dynamic%20Graphics%20JABES%20Dec%202004.pdf)，里面提到孔夫子的一句话：
 
-
 > "I hear and I forget, I see and I remember, I do and I understand."
-
 > 
 > -- Confucius
-> 
-> 
-
-
 
 请过路的同志们抢答，这是哪一篇里的句子？
 

@@ -11,12 +11,9 @@ tags:
 - 正则表达式
 ---
 
-经过一天的努力，终于把我的动画思路转化为了[Dokuwiki](http://wiki.splitbrain.org/wiki:dokuwiki)的插件，名为"[animation](http://animation.yihui.name/_media/wiki:animation.zip)"。Wiki语法和相应的说明参见：
+经过一天的努力，终于把我的动画思路转化为了[Dokuwiki](http://wiki.splitbrain.org/wiki:dokuwiki)的插件，名为"[animation](https://www.dokuwiki.org/plugin:animation)"。Wiki语法和相应的说明参见：
 
-
-[http://animation.yihui.name/wiki:animation_example](http://animation.yihui.name/wiki:animation_example)
-
-
+<http://animation.yihui.name/wiki:animation_example>
 
 刚刚写完PHP代码，Wiki页面还比较粗糙，明天再详细写。
 
