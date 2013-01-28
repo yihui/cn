@@ -13,13 +13,8 @@ tags:
 
 同一个数据，同一个梦想？不一定。有人学了很久回归，却没有理解多元回归到底是要干嘛。
 
+![x和y正相关？一个完美的回归](http://i.imgur.com/wyqxRep.png)
 
-![x和y正相关？一个完美的回归](http://yihui.name/cn/wp-content/uploads/1226245320_0.png)
-
-
-
-
-    
     > summary(lm(y ~ x))
     
     Call:
@@ -40,15 +35,8 @@ tags:
     Multiple R-squared: 0.3316,  Adjusted R-squared: 0.3248
     F-statistic: 48.63 on 1 and 98 DF,  p-value: 3.646e-10
 
+![若有个控制变量则情况就反过来了](http://i.imgur.com/EKAhZmR.png)
 
-
-
-![若有个控制变量则情况就反过来了](http://yihui.name/cn/wp-content/uploads/1226245320_1.png)
-
-
-
-
-    
     > summary(lm(y ~ x + z)) 
     
     Call:
@@ -61,7 +49,7 @@ tags:
     Coefficients:
                 Estimate Std. Error t value Pr(>|t|)
     (Intercept)  0.20056    0.06235   3.217  0.00176 **
-    x           <span style="color: #ff0000;">-0.68557</span>    0.09013  -7.606 1.82e-11 ***
+    x           -0.68557    0.09013  -7.606 1.82e-11 ***
     z            0.72498    0.07433   9.753 4.57e-16 ***
     ---
     Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1 
@@ -71,22 +59,20 @@ tags:
     F-statistic: 95.23 on 2 and 97 DF,  p-value: < 2.2e-16
 
 
-数据来源：[文件下载链接](http://yihui.name/cn/wp-content/uploads//1226245765_0.r)
+数据来源：
 
-    
-    #png(width = 500, height = 400)
-    set.seed(711)
-    x = seq(0, 4, length = 100)
-    y = -x + jitter(rep(1:5, each = 20), 2)
-    z = rep(1:5, each = 20)
-    #par(mar = c(4, 4, 0.1, 0.1))
-    plot(x, y)
-    abline(lm(y ~ x), col = "red")
-    plot(x, y, pch = 20, col = z)
-    lines(lowess(x, y, f = 0.1), col = "red")
-    summary(lm(y ~ x))
-    summary(lm(y ~ x + z))
-    #dev.off()
+{% highlight r %}
+set.seed(711)
+x = seq(0, 4, length = 100)
+y = -x + jitter(rep(1:5, each = 20), 2)
+z = rep(1:5, each = 20)
+par(mar = c(4, 4, 0.1, 0.1))
+plot(x, y)
+abline(lm(y ~ x), col = "red")
+plot(x, y, pch = 20, col = z)
+lines(lowess(x, y, f = 0.1), col = "red")
+summary(lm(y ~ x))
+summary(lm(y ~ x + z))
+{% endhighlight %}
 
-
-注意本例中局部平滑函数lowess()函数的应用。
+注意本例中局部平滑函数`lowess()`函数的应用。

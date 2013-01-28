@@ -16,12 +16,12 @@ tags:
 
 这两次给某一帮人讲东西的时候，脑子里总是冒出有一次学院高老师在听完我的报告后对我说的一句话，她说你这是要把日子过成段子啊。没错，一语惊醒梦中人呐，我就是想把日子过成段子。只有把日子过成段子，日子看起来才有滋有味，不然老是驴子拉磨的生活，一圈又一圈，没有个目标也没有个头。
 
-
-[![找不到驴子拉磨的图片，只好用这一张顶替了](http://yihui.name/cn/wp-content/uploads/1220186934_0.jpg)](http://yihui.name/cn/wp-content/uploads/1220186161_0.jpg)
-
-
+![找不到驴子拉磨的图片，只好用这一张顶替了](http://i.imgur.com/OGtOwN1.jpg)
 
 西边的太阳就要落山鸟，恐怖的九月就要来到鸟。好了，没空罗嗦了，无论如何，我们还是要勇敢面对生活。
 
+![](http://i.imgur.com/WLrJyWg.jpg)
 
-[![](http://yihui.name/cn/wp-content/uploads/1220186643_1.jpg)](http://yihui.name/cn/wp-content/uploads/1220186643_0.jpg) [![](http://yihui.name/cn/wp-content/uploads/1220186662_1.jpg)](http://yihui.name/cn/wp-content/uploads/1220186662_0.jpg) [![](http://yihui.name/cn/wp-content/uploads/1220186674_1.jpg)](http://yihui.name/cn/wp-content/uploads/1220186674_0.jpg)
+![](http://i.imgur.com/XyPscDe.jpg)
+
+![](http://i.imgur.com/47fsopI.jpg)
