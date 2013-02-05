@@ -13,13 +13,11 @@ tags:
 - TeXLive
 ---
 
+> 2013/02/05更新：本文已经严重过期，请不要模仿暗黑招数；参见[这篇日志](http://yihui.name/cn/2010/02/misc-issues-in-latex-lyx-r-sweave-pgfsweave/)。
+
 转眼间LyX 2.0已经陆续发布beta 1, 2, 3, 4，希望不要再发beta 5，直接出正式版吧。这回在LyX 2.0中Sweave有了内生支持，不过它自带的Sweave的缺点一大堆，前天上午本来想给LyX报告一下这些事情，结果写着写着，自个儿发现了解决办法，昏死，写了几大段道理，白写了。抄起键盘给2.0写了个Sweave自动配置脚本，仅仅在Ubuntu下测试了一下，貌似还挺好使。勇猛的Linux用户可以自行下载LyX 2.0 beta4源代码包编译安装，然后在R里运行：
 
-    
     source('http://gitorious.org/yihui/lyx-sweave/blobs/raw/lyx2/lyx-sweave-config.R')
-
-
-示例文件：[http://gitorious.org/yihui/lyx-sweave/blobs/raw/lyx2/demo/pgfSweave-in-LyX-2.0.lyx](http://gitorious.org/yihui/lyx-sweave/blobs/raw/lyx2/demo/pgfSweave-in-LyX-2.0.lyx)
 
 关键之处在于，Sweave从此变成了LyX的一个模块（module），对LyX了解的人都知道这样做的意义：它意味着你可以对任意文档应用Sweave，从此脱离了layout的限制。只要一个文档应用了pgfSweave这个模块，那么LyX就会认为这是个文学编程文档，从而调用R去执行文档中的代码生成LaTeX。这是最显著的进步。
 
