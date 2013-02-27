@@ -10,12 +10,12 @@ comments: yes
 
 - [陈钢](http://www.gossipcoder.com/) 中南大学，useR，生物信息学，译者
 - [陈丽云](http://www.loyhome.cn/) 山东大学，经济学，网站控，useR
-- [范建宁](http://fan.cos.name) 川大人大，量化投资，useR，许三多
+- [范建宁](http://blog.cos.name/fan) 川大人大，量化投资，useR，许三多
 - [胡江堂](http://li-and-jiang.com/blog/) 北大软件学院，经济学，SAS程序员，一肚子墨水，一手好字
 - [老工兵](http://lgbcy.blog.sohu.com/) 许总，创业杂谈
 - [刘思喆](http://www.bjt.name/) 人大，useR，数据挖掘
 - [邱怡轩](http://yixuan.cos.name/) 人大，useR，GNU，统计，过细之人
-- [魏太云](http://taiyun.cos.name/) 中南大学人大，useR，可视化，数学建模，文绉绉
+- [魏太云](http://blog.cos.name/taiyun) 中南大学人大，useR，可视化，数学建模，文绉绉
 - [肖楠](http://www.road2stat.com/) 中南大学，useR，技术控
 - [颜林林](http://yanlinlin82.vicp.net/blog/) useR，GNU，生物
 - [殷腾飞](http://www.tengfei.name/) ISU，生物，统计
