@@ -123,6 +123,7 @@ Email：xie@yihui.name；主页：<http://yihui.name/>
 - 谢益辉，2012，_Generating beautiful statistical reports quickly and faithfully_，爱荷华州立大学图形工作组（[幻灯片](https://github.com/downloads/yihui/yihui.github.com/knitr-ISU-2012-Yihui-Xie.pdf)）
 - 谢益辉，2011，_How I See Bootstrap，Tests and KDE_，Stat546课程报告（[幻灯片](http://yihui.name/slides/2011-nonparametric.html)）
 - 谢益辉，2011，_An Introduction to R_，爱荷华州立大学经济系R语言培训（[幻灯片](http://yihui.name/slides/2011-r-intro-econ.html)）
+- 谢益辉，2011，_Lessons Learned in Developing R Packages_，爱荷华州立大学统计计算讨论组（[幻灯片](http://yihui.name/slides/2011-r-dev-lessons.html)）
 - 谢益辉，2011，_`cranvas`: Interactive Statistical Graphics in R via Qt_，AT&T实验室，新泽西（[幻灯片](https://github.com/downloads/yihui/yihui.github.com/cranvas-ATT-2011-Yihui-Xie.pdf)）
 - 谢益辉，2011，_Interactive Parallel Coordinates Plot Based on Qt_，Joint Statistical Meetings，迈阿密，佛罗里达（[幻灯片](https://github.com/downloads/yihui/yihui.github.com/cranvas-JSM-2011-Yihui-Xie.pdf)）
 - 谢益辉，2011，_New Features and Enhancements of the `animation` Package_，图形工作组报告，爱荷华州立大学（[幻灯片](https://github.com/downloads/yihui/yihui.github.com/animation-2011-Yihui-Xie.pdf)）
