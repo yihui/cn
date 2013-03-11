@@ -107,6 +107,8 @@ Email：xie@yihui.name；主页：<http://yihui.name/>
 
 # 演讲和讲座
 
+- 谢益辉，2013，_knitr: A General-purpose Tool for Dynamic Report Generation in R_, [ENAR](http://enar.org) 2013，奥兰多，佛罗里达（[幻灯片](http://dl.dropbox.com/u/15335397/slides/knitr-ENAR-Yihui-Xie-2013.html)）
+- 谢益辉，2013，_Reproducible Research on the Web: From Homework, Blogging to Open Journals_，SIAM [CSE13](http://www.siam.org/meetings/cse13/)，波士顿，马萨诸塞（[幻灯片](http://dl.dropbox.com/u/15335397/slides/2013-SIAM-CSE13-Yihui-Xie.html)）
 - 谢益辉，2012，_knitr: Starting From Reproducible Homework_，计算与实验数学中的可重复性研讨会，[ICERM](http://icerm.brown.edu/tw12-5-rcem)，布朗大学（[幻灯片](https://bitbucket.org/stat/www/downloads/ICERMRR-Yihui-Xie-2012.pdf)）
 - 谢益辉，2012，_Can You Reproduce Your Homework?_，Department of Biostatistics，Johns Hopkins Bloomberg School of Public Health，巴尔的摩，马里兰（[幻灯片](http://yihui.name/slides/2012-reproduce-homework.html)）
 - 谢益辉，2012，_I web, therefore I am_，爱荷华州立大学统计计算组（[幻灯片](http://yihui.name/slides/2012-stats-web.html)）
