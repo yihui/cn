@@ -46,7 +46,7 @@ comments: yes
 - 卢鸫翔：专业 + 敬业，尤其在2012年2月9日让我深感敬佩
 - John Tukey：我认为他是小宇宙最强的统计学家，似乎抬手就能开创一个领域
 - [Christopher Boone](http://hypsometry.com/)：我不认识他，但我很喜欢这个网站的设计
-- Brian Ripley：尽管他很严厉，一些观点我也不同意，但他的确在R里做了大量的基础工作
+- John Kimmel：爱护作者的出版人
 - Michael Lawrence：天才人物，也是做基础建设工作的人，除了代码之外，写作水平也是超一流，值得学习，这个时代缺少这种在底层工作而且极其低调的人
 - [Qu Long](http://longor.public.iastate.edu/)（传说中的rtist）：我称之为[COS论坛](http://cos.name/cn/)上最聪明的人
 - Bill Cleveland：除了他在统计图形方面的工作之外，还有一篇十年前关于[Data Science](http://cm.bell-labs.com/cm/ms/departments/sia/doc/datascience.pdf)的一篇文章让我深为认同
