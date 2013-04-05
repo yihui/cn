@@ -119,7 +119,7 @@ Email：xie@yihui.name；主页：<http://yihui.name/>
     - 05/30 爱荷华州立大学
     - 05/30 Minneapolis R用户组
     - 06/05 纽约R用户组
-    - 06/14 useR! 2012会议邀请报告
+    - 06/14 useR! 2012会议[邀请报告](http://i.imgur.com/GPFxG.jpg)
 - 谢益辉，2012，_Go social coding! Make open source more open!_，useR! 2012会议5分钟演讲（[幻灯片](https://github.com/downloads/yihui/yihui.github.com/social-coding-Yihui-Xie-2012.pdf)）
 - 谢益辉，2012，_cranvas: Building from Plumbing and Painting_，[Interface 2012](http://www.interfacesymposia.org/Interface2012/Interface2012.html)，休斯顿，德州（[幻灯片](https://github.com/downloads/yihui/yihui.github.com/cranvas-Houston-2012.pdf)）
 - 谢益辉，2012，_Generating beautiful statistical reports quickly and faithfully_，爱荷华州立大学图形工作组（[幻灯片](https://github.com/downloads/yihui/yihui.github.com/knitr-ISU-2012-Yihui-Xie.pdf)）
