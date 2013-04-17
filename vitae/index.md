@@ -190,7 +190,7 @@ Email：xie@yihui.name；主页：<http://yihui.name/>
 
 ## 英文论文
 
-1. Yihui Xie, Xiaoyue Cheng. _animation: A Package for Statistical Animations_. [R News, 8(2), 2008](http://www.r-project.org/doc/Rnews/Rnews_2008-1.pdf)
+1. Yihui Xie, Xiaoyue Cheng. _animation: A Package for Statistical Animations_. [R News, 8(2), 2008](http://www.r-project.org/doc/Rnews/Rnews_2008-2.pdf)
 1. 谢益辉，_Visualization of Data and Statistical Models Using R_，第3届“计量模型与中国·澳大利亚自由贸易区发展国际研讨会”论文集，2007年3月（[PDF](https://github.com/downloads/yihui/yihui.github.com/R-visualization-paper-2007-Yihui-Xie.pdf)）
 
 ## 非出版论文
