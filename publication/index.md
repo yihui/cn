@@ -8,11 +8,16 @@ comments: yes
 
 # 一、书籍
 
+- Yihui Xie (2013) [_Dynamic Documents with R and knitr_](http://www.crcpress.com/product/isbn/9781482203530). Chapman and Hall/CRC. ISBN 978-1482203530
+- Yihui Xie (2013) knitr: [_A Comprehensive Tool for Reproducible Research in R_](http://www.crcpress.com/product/isbn/9781466561595). In Victoria Stodden, Friedrich Leisch and Roger D. Peng, editors, Implementing Reproducible Computational Research. Chapman and Hall/CRC. ISBN 978-1466561595
 - 《现代统计图形》
 
 > 未完成。R包可下载：[MSG包](http://cran.r-project.org/package=MSG)（[源代码](http://github.com/yihui/MSG)）
 
+
 # 二、论文
+
+- Yihui Xie (2013) _animation: An R Package for Creating Animations and Demonstrating Statistical Methods_, Journal of Statistical Software (accepted; [draft manuscript](https://github.com/downloads/yihui/yihui.github.com/JSS-animation-2012-Yihui-Xie.pdf))
 
 - 统计图形和模拟视角下的模型理论解析
 
