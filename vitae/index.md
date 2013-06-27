@@ -36,6 +36,11 @@ Email：xie@yihui.name；主页：<http://yihui.name/>
 
 # 工作经历
 
+## 实习
+
+1. 2012夏季，[AT&T实验室](http://research.att.com)，Florham，新泽西（指导：[Simon Urbanek](http://urbanek.info)）
+1. 2013夏季，[Fred Hutchinson癌症研究中心](http://www.fhcrc.org)（指导：[Raphael Gottardo](http://www.rglab.org)）
+
 ## 网站建设与管理
 
 2003年9月至今
