@@ -216,6 +216,7 @@ Email：xie@yihui.name；主页：<http://yihui.name/>
 ## 软件（包）
 
 - [knitr](http://yihui.name/knitr/)：自动化生成报告的R包，Sweave的替代品
+- [testit](https://github.com/yihui/testit)：用于R包的单元测试
 - [Rd2roxygen](http://cran.r-project.org/package=Rd2roxygen)：将R文档转化为roxygen注释，实现在源代码中以注释的形式写文档，方便R包的长期开发，同时包含一个改善roxygen功能的小工具`rab()`，让包的编译更加方便高效
 - 基于Qt和R的统计图形包，开发中（[视频示例](http://vimeo.com/yihui/)）
 - [iBUGS](http://cran.r-project.org/web/packages/iBUGS/index.html)：方便WinBUGS/OpenBUGS用户在R中调用的包，基于gWidgets包做了图形用户界面
