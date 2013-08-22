@@ -113,6 +113,7 @@ Email：xie@yihui.name；主页：<http://yihui.name/>
 
 # 演讲和讲座
 
+- 谢益辉，2013，_A tour through knitr_，Raphael Gottardo实验室，Fred Hutchinson癌症研究中心，西雅图，华盛顿（[slides](http://dl.dropbox.com/u/15335397/slides/FHCRC-rglab-2013-Yihui-Xie.html)）
 - 谢益辉，2013，_An Introduction to knitr_，Bioconductor 2013, 西雅图，华盛顿（[幻灯片](http://dl.dropbox.com/u/15335397/slides/BioC-2013-Yihui-Xie.html)，[源文件](http://dl.dropbox.com/u/15335397/slides/BioC-2013-Yihui-Xie.Rpres)）
 - 谢益辉，2013，_The Development of R in China, and One Sentence Summaries of My R Projects_，Revolution Analytics，西雅图，华盛顿（[slides](https://bitbucket.org/stat/www/downloads/2013-RevoR-Yihui-Xie.pdf)）
 - 谢益辉，2013，_Doing Reproducible Research Unconsciously: Higher Standard But Less Work_，The 36th annual Midwest Biopharmaceutical Statistics Workshop，Muncie，IN（[slides](http://dl.dropbox.com/u/15335397/slides/knitr-MBSW-Yihui-Xie-2013.html)）
