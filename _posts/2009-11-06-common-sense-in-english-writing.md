@@ -25,7 +25,7 @@ tags:
 
 因为中文的名词基本上没有复数的概念，比如我们说吃苹果时，绝不会说吃苹果**们**（即使吃了十个苹果），所以我们写英语的名词容易忽略单数复数的问题。**当我们用一个可数单数名词的时候，前面需要加冠词a或者the，要么就用复数，不要把一个可数名词孤零零光秃秃撂在那儿。**例：
 
-[blockquote color=green][...] it estimates parameters in linear regression model...[/blockquote]
+> [...] it estimates parameters in linear regression model...
 
 这句话中，线性回归模型前需要加a或者the，或者用models。如果用the什么，那么一般表示特指某一个东西，如果不想表达特指，那么用复数。
 
