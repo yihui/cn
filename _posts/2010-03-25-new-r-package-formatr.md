@@ -17,36 +17,20 @@ tags:
 
 这个包的界面很简略，就是一个文本框加上若干按钮。以下是效果图：
 
-[caption id="attachment_1295" align="aligncenter" width="459" caption="R代码整容前"][![R代码整容前](http://yihui.name/cn/wp-content/uploads/2010/03/before-tidy.gif)](http://yihui.name/cn/wp-content/uploads/2010/03/before-tidy.gif)[/caption]
+![R代码整容前](http://i.imgur.com/Y55lL.png)
 
-[caption id="attachment_1296" align="aligncenter" width="459" caption="R代码整容后"][![R代码整容后](http://yihui.name/cn/wp-content/uploads/2010/03/after-tidy.gif)](http://yihui.name/cn/wp-content/uploads/2010/03/after-tidy.gif)[/caption]
+![R代码整容后](http://i.imgur.com/v141t.png)
 
-感兴趣的客官可以从svn获得最新源代码自行编译安装，注意这个包依赖于**gWidgetsRGtk2**包：
+感兴趣的客官可以从[GitHub](https://github.com/yihui/formatR)获得最新源代码自行编译安装，注意这个包依赖于**gWidgetsRGtk2**包。初级用户可以从CRAN安装（CRAN上的版本取决于我的提交，可能会有延迟）：
 
-    
-    svn checkout svn://svn.r-forge.r-project.org/svnroot/animation/pkg/formatR
-    R CMD INSTALL formatR
-    
-
-
-初级用户可以从CRAN安装（CRAN上的版本取决于我的提交，可能会有延迟）：
-
-    
-    ## 启动R，然后
-    install.packages('formatR')
-    library(formatR)
-    ## 将自动启动界面
-    
-
+{% highlight r %}
+## 启动R，然后
+install.packages('formatR')
+library(formatR)
+## 将自动启动界面
+{% endhighlight %}
 
 第二个版本中加入了执行代码、字体设置以及其它选项。需要提醒的有两点：
 
-
-
-	
-  1. 这个代码清理功能只能保留**整行**的注释（也就是单独占一行的注释），行内注释会被删掉。
-
-	
-  2. 目前暂时还没搞清楚中文编码的问题，所以暂不支持中文，如果代码中有中文，将会被转换为乱码。有谁熟悉**gWidgets**的话可以帮帮我。
-
-
+1. 这个代码清理功能只能保留**整行**的注释（也就是单独占一行的注释），行内注释会被删掉。
+2. 目前暂时还没搞清楚中文编码的问题，所以暂不支持中文，如果代码中有中文，将会被转换为乱码。有谁熟悉**gWidgets**的话可以帮帮我。
