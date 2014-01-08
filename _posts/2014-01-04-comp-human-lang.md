@@ -24,3 +24,5 @@ tags: [计算机语言, 人类语言]
 英文里经常把结果放在条件的前面讲，也就是“什么什么，如果什么什么”，这也是一种奇怪的思维方式，从推理或推导的过程来说，应该是先有条件，再有结果。先讲结果的话，听完这半句则不知该作什么反应，很容易反应过早。
 
 从人类语言的角度来说，没有什么最小惊讶，只有最大熟悉问题。英语这种全是漏洞和不规则性的语言都能流行，上哪儿说理去呢。
+
+<iframe src="http://embed.ted.com/talks/lang/en/suzanne_talhouk_don_t_kill_your_language.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
