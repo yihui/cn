@@ -117,8 +117,11 @@ Email：xie@yihui.name；主页：<http://yihui.name/>
 
 # 演讲和讲座
 
+- 谢益辉，2014，_How I Managed to Find Time to Play Badminton Three Times A Week_，爱荷华州立大学动物科学系（[幻灯片](https://dl.dropboxusercontent.com/u/15335397/slides/2014-ISU-ANS-Yihui-Xie.html)）
+- 谢益辉，2014，_New developments in knitr and R Markdown v2_，洛杉矶R用户小组，加州（[幻灯片](https://dl.dropboxusercontent.com/u/15335397/slides/LARUG-2014-Yihui-Xie.html)）
+- 谢益辉，2014，_Dynamic and Interactive Statistical Reporting_，加州大学洛杉矶分校统计系（[幻灯片](https://dl.dropboxusercontent.com/u/15335397/slides/UCLA-2014-Yihui-Xie.html)）
 - 谢益辉，2014，_How to Save More Time from Your Homework and Projects_，爱荷华州立大学Stat416客串讲堂（[幻灯片](https://dl.dropboxusercontent.com/u/15335397/slides/2014-STAT416-Yihui-Xie.html)）
-- 谢益辉，2014，_An Introduction to knitr_，桔子郡R用户小组，远程报告（[幻灯片](https://dl.dropboxusercontent.com/u/15335397/slides/2014-OC-RUG-Yihui-Xie.html)）
+- 谢益辉，2014，_An Introduction to knitr_，桔子郡R用户小组，远程报告，加州（[幻灯片](https://dl.dropboxusercontent.com/u/15335397/slides/2014-OC-RUG-Yihui-Xie.html)）
 - 谢益辉，2014，西雅图R用户聚会，_R Markdown v2_，Fred Hutchinson癌症研究中心，西雅图，华盛顿（[幻灯片](https://dl.dropboxusercontent.com/u/15335397/slides/Seattle-useR-2014-Yihui-Xie.html)）
 - 谢益辉，2013，忍者神织，纽约R用户小组，远程报告（[幻灯片](http://bit.ly/18SIMpu)）
 - 谢益辉，2013，_A tour through knitr_，Raphael Gottardo实验室，Fred Hutchinson癌症研究中心，西雅图，华盛顿（[幻灯片](http://dl.dropbox.com/u/15335397/slides/FHCRC-rglab-2013-Yihui-Xie.html)）
