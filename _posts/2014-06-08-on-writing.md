@@ -34,6 +34,22 @@ tags: [文学, 诗词, 自然, 语言]
 
 我说的语文并非局限于古文，古文只是一种表达形式，和白话文、英文都一样，当然，古文有一个无法替代的优势就是可以很整齐，这种形式上独有的美感很难用别的文字形式体现，例如用英文写一首七律试试？北京大学数学学科创建百年时，我见他们的校友们写了一封古色古香的贺信，施老大转给我以为我会喜欢，但其实并不是这样，我主要还是看内容的，如果内容空泛，即使形式别致，对我而言也没能发挥文字的力量（我这样公开讲会不会被揍……）。举个例子吧，前些日子看见左辰撒马转载了知乎上一则[外星人吃粉条](http://www.zhihu.com/question/23761217/answer/25583143)的回答，我觉得就写得超级好，这就是纯凭大白话描述取胜，不需要借助形式。
 
+文字的另一个表达介质是歌词。要是从我听的歌来推断我的年龄的话，可能会高估我二十岁，因为我听的大多数歌都非常老（土）。比如毛阿敏《篱笆墙的影子》的歌词就很合我心意，因为星星月亮篱笆墙、油灯狂狗豆角秧就是小时候的生活写照：
+
+> 麻油灯呵还吱吱地响， 点的还是那么丁点亮。  
+> ……  
+> 只有那篱笆墙影子还那么长，  
+> 在那墙上边爬满了爬满了豆角秧。
+
+上面是写实的；有些虚写的歌词我觉得也不错，尤其是形式整齐的时候，比如张真《携手游人间》：
+
+> 谁说两地缱绻 最是扰人心田  
+> 谁说人海浮沉 难有恒久情缘  
+> 不管分分合合 也许聚聚散散  
+> 只求平平安安 携手同游人间
+
+<!-- 谨以这段歌词献给现阶段的楠神，感情之事宜从长计议，看好你们哟 -->
+
 再说说英文的写作。几年前一次我读到一则关于写作的建议，但忘记了出处，只记得大概意思。后来系里有人转发了“[大数据的八个（不，是九个）问题](http://www.nytimes.com/2014/04/07/opinion/eight-no-nine-problems-with-big-data.html)”，我在嘲讽这篇文章的同时搭车问了问系里有没有人知道那则建议的作者，终于有好心的同学帮我回忆起了作者和来源：
 
 > In writing. Don't use adjectives which merely tell us how you want us to feel about the thing you are describing. I mean, instead of telling us a thing was "terrible," describe it so that we'll be terrified. Don't say it was "delightful"; make us say "delightful" when we've read the description. You see, all those words (horrifying, wonderful, hideous, exquisite) are only like saying to your readers, "Please will you do my job for me."
