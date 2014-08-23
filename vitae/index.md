@@ -117,6 +117,9 @@ Email：xie@yihui.name；主页：<http://yihui.name/>
 
 # 演讲和讲座
 
+- 谢益辉，2014，卡卡西之雷织！，UseR! 2014会议演讲，UCLA（[幻灯片](https://github.com/yihui/knitr-talks/tree/master/useR2014)）
+- 谢益辉，2014，_Dynamic Documents with R and knitr_，UseR! 2014会前课程，UCLA（[幻灯片](https://dl.dropboxusercontent.com/u/15335397/slides/2014-useR-knitr-tutorial-Yihui-Xie.html)；[示例](https://www.dropbox.com/s/0mabfshkbpe9bp1/2014-useR-knitr-tutorial-examples.zip)）
+- 谢益辉，2014，_The Next Generation of Dynamic Documents with R Markdown_，Great Plains [R用户小组](http://homepages.dordt.edu/ntintle/gprug/)会议，Sioux Center，爱荷华（[幻灯片](https://dl.dropboxusercontent.com/u/15335397/slides/2014-Dordt-Yihui-Xie.html)）
 - 谢益辉，2014，_How I Managed to Find Time to Play Badminton Three Times A Week_，爱荷华州立大学动物科学系（[幻灯片](https://dl.dropboxusercontent.com/u/15335397/slides/2014-ISU-ANS-Yihui-Xie.html)）
 - 谢益辉，2014，_New developments in knitr and R Markdown v2_，洛杉矶R用户小组，加州（[幻灯片](https://dl.dropboxusercontent.com/u/15335397/slides/LARUG-2014-Yihui-Xie.html)）
 - 谢益辉，2014，_Dynamic and Interactive Statistical Reporting_，加州大学洛杉矶分校统计系（[幻灯片](https://dl.dropboxusercontent.com/u/15335397/slides/UCLA-2014-Yihui-Xie.html)）
@@ -203,8 +206,8 @@ Email：xie@yihui.name；主页：<http://yihui.name/>
 
 ## 书籍
 
+1. Yihui Xie (2014) knitr: [_A Comprehensive Tool for Reproducible Research in R_](http://www.crcpress.com/product/isbn/9781466561595). In Victoria Stodden, Friedrich Leisch and Roger D. Peng, editors, Implementing Reproducible Computational Research. Chapman and Hall/CRC. ISBN 978-1466561595
 1. Yihui Xie (2013) [_Dynamic Documents with R and knitr_](http://www.crcpress.com/product/isbn/9781482203530). Chapman and Hall/CRC. ISBN 978-1482203530
-1. Yihui Xie (2013) knitr: [_A Comprehensive Tool for Reproducible Research in R_](http://www.crcpress.com/product/isbn/9781466561595). In Victoria Stodden, Friedrich Leisch and Roger D. Peng, editors, Implementing Reproducible Computational Research. Chapman and Hall/CRC. ISBN 978-1466561595
 
 ## 中文论文
 
@@ -218,6 +221,7 @@ Email：xie@yihui.name；主页：<http://yihui.name/>
 
 ## 英文论文
 
+1. Yihui Xie, Heike Hofmann, and Xiaoyue Cheng (2014). _Reactive Programming for Interactive Graphics_. Statistical Science, 29(**2**), 201-213. ([PDF](https://bitbucket.org/stat/www/downloads/STS477.pdf))
 1. Yihui Xie (2013) _animation: An R Package for Creating Animations and Demonstrating Statistical Methods_, Journal of Statistical Software (accepted; [draft manuscript](https://github.com/downloads/yihui/yihui.github.com/JSS-animation-2012-Yihui-Xie.pdf))
 1. Yihui Xie, Xiaoyue Cheng. _animation: A Package for Statistical Animations_. [R News, 8(2), 2008](http://www.r-project.org/doc/Rnews/Rnews_2008-2.pdf)
 1. 谢益辉，_Visualization of Data and Statistical Models Using R_，第3届“计量模型与中国·澳大利亚自由贸易区发展国际研讨会”论文集，2007年3月（[PDF](https://github.com/downloads/yihui/yihui.github.com/R-visualization-paper-2007-Yihui-Xie.pdf)）
