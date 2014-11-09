@@ -63,6 +63,7 @@ tags: [会议, RStudio, Interface 2012, knitr, useR! 2012, COS论坛, 文债]
   - 还是COS论坛，我们该拿坛霸怎么办？坛霸就是屁大点儿事统统都发出来问星人，我个人觉得每周问三五个问题的频率可以接受，但每天都扔出来十来个问题似乎太夸张了，一方面，我们要珍惜志愿者劳动，另一方面，你好歹也要有点自学能力吧，志愿者不是奶妈
   - 在AT&T实习最大的收获可能是shell脚本，各种awk/sed乱入几G的数据，关于shell脚本，举个例子，我住的宿舍无线网络不好，经常掉线，只能重启，我搜了很久终于找到不用重启的办法，就是卸载再加载无线网络模块，于是我写了个无限循环，我叫你掉线，我叫你掉线，……
 
+        ```bash
         #!/bin/sh
 
         while true
@@ -71,6 +72,7 @@ tags: [会议, RStudio, Interface 2012, knitr, useR! 2012, COS论坛, 文债]
              sleep 1; sudo modprobe iwlwifi; sleep 30; echo rebooted wireless)
           sleep 1
         done
+        ```
 
 - 各位客官，你能帮我吗？我有一些杂项任务
   - MSG包中有一个[拿破仑行军/撤退路线图](https://github.com/yihui/MSG/blob/master/demo/Napoleon.R)，基于Google Maps，肖楠出品，你能用循环帮我把它改短一些吗？
