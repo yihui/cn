@@ -117,6 +117,7 @@ Email：xie@yihui.name；主页：<http://yihui.name/>
 
 # 演讲和讲座
 
+- JJ Allaire，谢益辉，2014，基于Packrat和Rmarkdown的可重复性R报告，[R Day](http://strataconf.com/stratany2014/public/schedule/detail/37037)，纽约Strata会议
 - 谢益辉，2014，可重复性研究已死/可重复性研究万岁，JSM 2014，波士顿，马萨诸塞（[幻灯片](https://dl.dropboxusercontent.com/u/15335397/slides/2014-JSM-knitr-Yihui-Xie.html)）
 - 谢益辉，2014，卡卡西之雷织！，UseR! 2014会议演讲，UCLA（[幻灯片](https://github.com/yihui/knitr-talks/tree/master/useR2014)）
 - 谢益辉，2014，_Dynamic Documents with R and knitr_，UseR! 2014会前课程，UCLA（[幻灯片](https://dl.dropboxusercontent.com/u/15335397/slides/2014-useR-knitr-tutorial-Yihui-Xie.html)；[示例](https://www.dropbox.com/s/0mabfshkbpe9bp1/2014-useR-knitr-tutorial-examples.zip)）
