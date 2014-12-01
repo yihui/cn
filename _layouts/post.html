@@ -17,7 +17,7 @@ layout: default
 <span class="license">
   Published under <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">(CC) BY-NC-SA</a>
 </span>
-{% if page.categories %}
+{% if page.categories.size > 0 %}
 <span class="categories">
   in categories
   {% for cat in page.categories %}
@@ -25,7 +25,7 @@ layout: default
   {% endfor %}
 </span>
 {% endif %}
-{% if page.tags %}
+{% if page.tags.size > 0 %}
 <span class="tags">
   tagged with 
   {% for tag in page.tags %}
