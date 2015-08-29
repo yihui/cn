@@ -5,7 +5,7 @@ title: 简历（谢益辉）
 
 # 联系方式
 
-地址：102 Snedecor Hall, Ames, IA；邮编：50011
+地址：14807 Pratt CT Apt 301, Omaha, NE；邮编：68116
 Email：xie@yihui.name；主页：<http://yihui.name/>
 
 # 研究兴趣
