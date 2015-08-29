@@ -20,9 +20,9 @@ Email：xie@yihui.name；主页：<http://yihui.name/>
 
 # 获得奖励
 
-- 2012.09 [George W. Snedecor](http://www.stat.iastate.edu/grad/finances/scholarships.html)奖（杰出博士生），爱荷华州立大学统计系
+- 2012.09 [George W. Snedecor](http://www.stat.iastate.edu/graduate-program/grad-finances/)奖（杰出博士生），爱荷华州立大学统计系
 - 2012.01 Honorable Mention奖，R在商业中的应用[竞赛](http://bit.ly/wP1Dii)
-- 2011.08 [Vince Sposito](http://www.stat.iastate.edu/grad/finances/scholarships.html)统计计算奖，爱荷华州立大学统计系
+- 2011.08 [Vince Sposito](http://www.stat.iastate.edu/graduate-program/grad-finances/)统计计算奖，爱荷华州立大学统计系
 - 2009.04 美国统计学会[John Chambers软件奖](http://stat-computing.org/awards/jmc/winners.html)
 - 2008.06 中国人民大学2008届院级优秀毕业生
 - 2007.12 中国人民大学2006~2007学年优秀研究生奖学金
