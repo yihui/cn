@@ -17,4 +17,4 @@ tags:
 
 文中有若干小误，已经给John发邮件。文档中的图形全都是位图，稍微放大一点就非常不清晰（最清晰是在文档缩放比例为75%之时），这一点我觉得非常不好，太毁损R作图的光辉形象了……John老大也许是觉得用LaTeX太麻烦，于是就用Word凑合着写了。
 
-另：我知道世上至少有两个人不会数数，一个就是我，另外一个就是R团队中的Friedrich Leisch，因为[Using R](http://cran.r-project.org/doc/contrib/usingR-2.pdf)这份文档明明是99页，却被安排在[贡献文档网页](http://cran.r-project.org/other-docs.html#english)的"Documents with more than 100 pages:"这个section中。![](http://yihui.name/cn/wp-content/uploads/bo/emot/grin.gif)
+另：我知道世上至少有两个人不会数数，一个就是我，另外一个就是R团队中的Friedrich Leisch，因为[Using R](http://cran.r-project.org/doc/contrib/usingR-2.pdf)这份文档明明是99页，却被安排在[贡献文档网页](http://cran.r-project.org/other-docs.html#english)的"Documents with more than 100 pages:"这个section中。

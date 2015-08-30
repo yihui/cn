@@ -17,10 +17,7 @@ tags:
 
 如果再去掉近35000没有激活的用户，COS真实用户数大约为三万人。
 
-
-![](http://yihui.name/cn/wp-content/uploads/1224571035_0.png)
-
-
+![](http://i.imgur.com/J8OzStR.png)
 
 乍一看，哇，八万大军，砍掉两万机器人，再砍掉没有激活的，只有36%的用户是可能真实的，里面当然还有机器人，只是目前还没有发现他们的特征。三万大军，意味着平均每天有30个活人注册，也不错了。
 
@@ -28,9 +25,6 @@ tags:
 
 R代码仅供图形初学者参考：
 
-[文件下载链接](http://yihui.name/cn/wp-content/uploads//1224572162_0.r)
-
-    
     # png("users.png", width = 500, height = 200)
     par(mar = c(2, 0.1, 0.1, 0.1))
     x = c(83778, 65123, 30000)

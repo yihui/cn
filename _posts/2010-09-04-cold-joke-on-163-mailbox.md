@@ -27,13 +27,13 @@ tags:
 
 > 我不想，谢谢。
 
-    Regards,
-    Yihui
-    --
-    Yihui Xie <***@gmail.com>
-    Phone: 515-294-2465 Web: http://yihui.name
-    Department of Statistics, Iowa State University
-    2215 Snedecor Hall, Ames, IA
+> Regards,  
+Yihui  
+- -  
+Yihui Xie <***@gmail.com>  
+Phone: 515-294-2465 Web: http://yihui.name  
+Department of Statistics, Iowa State University  
+2215 Snedecor Hall, Ames, IA
 
 写完，发送！哈哈！
 

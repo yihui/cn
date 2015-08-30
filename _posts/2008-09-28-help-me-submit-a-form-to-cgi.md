@@ -13,6 +13,4 @@ tags:
 
 plot(1); plot(rnorm(100)); plot(rnorm(100))
 
-
-
 返回的图片URL放在一个数组中即可。谢谢！

@@ -17,15 +17,11 @@ tags:
 
 有位叫David Coleman的老兄在1986年某一天等人的时候随便找了几个字母的坐标表示，然后扔到一大堆随机数中藏起来，后来成了ASA Data Expo的名数据。这里是我用rgl包作出的探索示例：
 
-
-
-[Letters "EUREKA" in POLLEN data (using OpenGL)](http://vimeo.com/1982725?pg=embed&sec=1982725) from [Yihui Xie](http://vimeo.com/user728417?pg=embed&sec=1982725) on [Vimeo](http://vimeo.com?pg=embed&sec=1982725).
-
+<iframe src="https://player.vimeo.com/video/1982725" width="500" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/1982725">Letters &quot;EUREKA&quot; in POLLEN data (using OpenGL)</a> from <a href="https://vimeo.com/yihui">Yihui Xie</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 图穷“匕首”见。
 
 该演示已经收入`animation`包：
-
     
     library(animation)
     demo('pollen')

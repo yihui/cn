@@ -8,7 +8,7 @@ tags:
 - 讲座
 ---
 
-今晚讲座，[给大家讲Sweave](http://yihui.name/cv/images/Sweave_reproducible_research_yihui.pdf)，讲着讲着觉得有种不想讲了的感觉，本次演讲是本人历史上自我感觉最糟糕的一场。
+今晚讲座，[给大家讲Sweave](https://github.com/downloads/yihui/yihui.github.com/Sweave-2008-Yihui-Xie.pdf)，讲着讲着觉得有种不想讲了的感觉，本次演讲是本人历史上自我感觉最糟糕的一场。
 
 博士班讲完又继续给本科小孩们讲分方向的事情，直到活动结束和几个小孩聊天才觉得有点意思，我很喜欢这些小孩们。
 

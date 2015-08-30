@@ -11,7 +11,6 @@ tags:
 
 我们可以把R-help邮件列表当作一个练手的地方，比如今天有人想把地图上的指北箭头作为位图格式导入他的地图，而我则建议不如手工画一个：
 
-    
     north.arrow = function(x, y, h) {
         polygon(c(x, x, x + h/2), c(y - h, y, y - (1 + sqrt(3)/2) *
             h), col = "black", border = NA)
@@ -24,11 +23,6 @@ tags:
         ann = FALSE)
     north.arrow(1, 0.8, 0.4)
 
-
-
-
-![指北箭头](http://yihui.name/cn/wp-content/uploads/1236753415_0.png)
-
-
+![指北箭头](http://i.imgur.com/BLJT13o.png)
 
 不过这种基础性练习带来的坏处就是，你总觉得用R的基础图形元素什么图都可以画，从而不愿学习新的作图系统。

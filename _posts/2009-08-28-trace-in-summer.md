@@ -17,10 +17,8 @@ tags:
 
 很久没来堆点文字，各位客官想必已经觉得此处荒草丛生了。这个暑假东奔西跑，在自家山沟沟里没网络，所以没更新，后来在别的地方每每想操起键盘写两个字，又觉得还有很多事情要做，所以迟迟未动手。再后来，不小心来美国了，初来乍到，种种事情要应付，也就更没工夫写。如今暂时尘埃落定，特向各位客官报个平安，概括这两个月的路径如下：
 
-[caption id="attachment_1060" align="aligncenter" width="600" caption="洒家于暑假在地球上的轨迹"][![洒家于暑假在地球上的轨迹](http://yihui.name/cn/wp-content/uploads/2009/08/travel-in-summer.gif)](http://yihui.name/cn/wp-content/uploads/2009/08/travel-in-summer.gif)[/caption]
+![洒家于暑假在地球上的轨迹](http://i.imgur.com/cYkoL3X.gif)
 
-
-    
     library(maps)
     x = structure(list(city = c("Beijing", "Yichang",
         "Qingdao", "Tokyo", "Seattle", "Minneapolis", "DC", "Ames"),
@@ -46,8 +44,6 @@ tags:
         }
     ##}, moviename = "travel-in-summer", outdir = getwd(), para = list(mar = rep(0,
     ##    4)), width = 600, height = 100)
-
-
 
 细节就不多说了。俺没有相机，所以也不上照片了，八卦的客官请自行到人人网上俺某师弟的页面上以及美国统计学会的统计计算和图形部门网站上扒拉，万一不小心扒到了请自个儿偷着乐，别吱声。
 

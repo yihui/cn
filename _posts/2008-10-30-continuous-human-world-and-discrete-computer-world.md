@@ -17,14 +17,13 @@ tags:
 以下三幅图说明了这个近似的过程：第一幅图看起来很光滑很强大；第二幅图和第一幅图完全相同，只是把作图用到的数据点标了出来——实际上只用了[-3, 3]区间上的100个点；第三附图只用了10个点，图穷匕首见。
 
 
-[![](http://yihui.name/cn/wp-content/uploads/1225359439_0.png)](http://yihui.name/cn/wp-content/uploads/1225359439_1.png) [![](http://yihui.name/cn/wp-content/uploads/1225359455_0.png)](http://yihui.name/cn/wp-content/uploads/1225359455_1.png) [![](http://yihui.name/cn/wp-content/uploads/1225359466_0.png)](http://yihui.name/cn/wp-content/uploads/1225359466_1.png)
+![](http://i.imgur.com/3gwKxy0.png)
 
+![](http://i.imgur.com/doMWd56.png)
 
+![](http://i.imgur.com/tdebC87.png)
 
-[文件下载链接](http://yihui.name/cn/wp-content/uploads//1225360236_0.r)
-
-    
-    #png("polygon%d-s.png", width = 500, height = 500)
+    # png("polygon%d-s.png", width = 500, height = 500)
     par(mar = c(2, 2, 0.1, 0.1), las = 1, mgp = c(3, 0.5, 0), tcl = -0.3)
     x1 = seq(-3, 3, length = 100)
     plot(x1, dnorm(x1), type = "n")
@@ -39,4 +38,4 @@ tags:
     plot(x2, dnorm(x2), type = "n")
     polygon(c(x2[1], x2[1:8], x2[8]), c(0, dnorm(x2[1:8]), 0), col = "gray", border = NA)
     lines(x2, dnorm(x2),type='o',pch=20)
-    #dev.off()
+    # dev.off()

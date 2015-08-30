@@ -12,9 +12,6 @@ tags:
 ---
 
 以下是我以前写的一个利用鼠标交互选择点的例子，主要是`getGraphicsEvent()`函数。
-
-[notice type=download][文件下载链接](http://yihui.name/cn/wp-content/uploads//1224070972_0.r)[/notice]
-
     
     par(bg = "black", mar = rep(0, 4), pch = 20)
     xx = runif(100)
@@ -35,8 +32,6 @@ tags:
     getGraphicsEvent("Click mouse to exit", onMouseDown = mousedown,
         onMouseMove = mousemove)
 
-
 其中`r`可以自行调整。
 
-
-![](http://yihui.name/cn/wp-content/uploads/1224071155_0.png)
+![](http://i.imgur.com/jUMGKFx.png)

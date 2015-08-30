@@ -11,5 +11,5 @@ tags:
 
 这个有点意思：
 
-![Hello，大马户！嗯？](http://yihui.name/cn/wp-content/uploads/1189844907_0.jpg)
+![Hello，大马户！嗯？](http://i.imgur.com/NnaXhzX.jpg)
 
