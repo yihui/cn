@@ -87,10 +87,10 @@ Email：xie@yihui.name；主页：<http://yihui.name/>
 
 ## 统计咨询
 
-几乎每天都在“统计之都”上回答各种统计相关问题；并对数十位来自不同学校（包括国外）不同专业的硕士、博士提供过专业咨询和帮助。
+经常在“统计之都”上回答各种统计相关问题；偶尔提供邮件咨询和帮助，一些个人原则如下：
 
 - 模型黑名单（我绝对不用的模型）：结构方程模型、层次分析法、灰色模型。
-- 模型灰名单（我尽量避免的模型）：因子分析、[任何与分布有关的假设检验](http://yihui.name/cn/2009/02/test-statistical-distributions/)。
+- 模型灰名单（我尽量避免的模型）：因子分析、[任何与分布有关的假设检验](/cn/2009/02/test-statistical-distributions/)。
 - 我的数据观：尽量避免分析调查数据，绝对不做小样本的调查数据；我对自然科学数据的分析兴趣远高于社会科学数据。
 - 软件黑名单：AMOS（结构方程模型软件之一）
 
@@ -100,7 +100,8 @@ Email：xie@yihui.name；主页：<http://yihui.name/>
 
 ### 任职情况
 
-- 美国统计协会数据共享及可重复研究委员会成员（2013）
+- 美国统计学会统计图形部门会议主席（2015-2016）
+- 美国统计学会数据共享及可重复研究委员会成员（2013）
 - 泛华统计协会[Bulletin](http://icsa.org/bulletin/)专栏编辑（2012-2013）
 - 应用统计科学研究中心科研秘书，主管中心网站工作以及负责部分日常事务（2004年4月至2009年7月）
 - 历任远大前程协会网络部部长、副主席（2005年4月至2006年7月）
@@ -117,6 +118,17 @@ Email：xie@yihui.name；主页：<http://yihui.name/>
 
 # 演讲和讲座
 
+- 谢益辉，2015，论R码农的自我修养，第八届中国R语言会议（南昌）远程报告（[幻灯片](https://dl.dropboxusercontent.com/u/15335397/slides/2015-Nanchang-R-Yihui-Xie.html)；[视频](http://www.xueqing.cc/course/33)）
+- 谢益辉，2015，_Reproducible Reports with Big Data_，Strata会议，纽约（[幻灯片](http://conferences.oreilly.com/strata/big-data-conference-ny-2015/public/schedule/detail/44154)）
+- 谢益辉，2015，_Escape the Land of LaTeX/Word for Statistical Reporting: The Ecosystem of R Markdown_
+  - 3月，Wright State University，Dayton，俄亥俄州（[幻灯片](https://dl.dropboxusercontent.com/u/15335397/slides/2015-Wright-State-Yihui-Xie.html)）
+  - 7月，爱荷华R用户小组报告
+  - 9月，美国统计学会网络讲座（[幻灯片](https://docs.google.com/presentation/d/1RJeypFW1y9vtG_kCoREN5D16jX3KNrc_qzGMGygQs2E/edit?usp=sharing)）
+  - 10月，RStudio网络讲座（[幻灯片](https://github.com/rstudio/webinars/blob/master/13-R-Markdown-Ecosystem)；[视频](https://vimeo.com/143893476)）
+- 谢益辉，2015，_Boosting R Skills and Automating Statistical Reports_，新英格兰地区统计论坛（NESS），康州大学，康涅狄格
+- 谢益辉，2015，用R语言编写自动化报告以及交互式应用，58同城，北京（[幻灯片](https://dl.dropboxusercontent.com/u/15335397/slides/2015-58-Yihui-Xie.html)）
+- 谢益辉，2015，_HTML Widgets_，洛杉矶R用户小组，加州（[幻灯片](https://dl.dropboxusercontent.com/u/15335397/slides/2015-htmlwidgets-LA-Yihui-Xie.html)；[视频](http://datascience.la/yihui-xie-presents-html-widgets/)）
+- 谢益辉，Dirk Eddelbuettel，2014，[R语言培训班](http://ditraglia.com/RWorkshop/)，宾州大学Warren中心，费城，宾夕法尼亚
 - JJ Allaire，谢益辉，2014，基于Packrat和Rmarkdown的可重复性R报告，[R Day](http://strataconf.com/stratany2014/public/schedule/detail/37037)，纽约Strata会议
 - 谢益辉，2014，可重复性研究已死/可重复性研究万岁，JSM 2014，波士顿，马萨诸塞（[幻灯片](https://dl.dropboxusercontent.com/u/15335397/slides/2014-JSM-knitr-Yihui-Xie.html)）
 - 谢益辉，2014，卡卡西之雷织！，UseR! 2014会议演讲，UCLA（[幻灯片](https://github.com/yihui/knitr-talks/tree/master/useR2014)）
@@ -208,6 +220,7 @@ Email：xie@yihui.name；主页：<http://yihui.name/>
 
 ## 书籍
 
+1. Yihui Xie (2015). [_Dynamic Documents with R and knitr_](http://www.crcpress.com/product/isbn/9781498716963). 2nd edition. Chapman and Hall/CRC. ISBN 978-1498716963
 1. Yihui Xie (2014) knitr: [_A Comprehensive Tool for Reproducible Research in R_](http://www.crcpress.com/product/isbn/9781466561595). In Victoria Stodden, Friedrich Leisch and Roger D. Peng, editors, Implementing Reproducible Computational Research. Chapman and Hall/CRC. ISBN 978-1466561595
 1. Yihui Xie (2013) [_Dynamic Documents with R and knitr_](http://www.crcpress.com/product/isbn/9781482203530). Chapman and Hall/CRC. ISBN 978-1482203530
 
@@ -248,4 +261,3 @@ Email：xie@yihui.name；主页：<http://yihui.name/>
 - [formatR](http://cran.r-project.org/package=formatR)：格式化R代码的包，自动添加空格和缩进
 - 维基系统[Dokuwiki](http://wiki.splitbrain.org/wiki:dokuwiki)插件"[animation](http://animation.yihui.name/wiki:animation_plugin)"：在维基页面中嵌入动画，基于PHP和JavaScript完成
 - R程序包"[animation](http://cran.r-project.org/package=animation)"：用动画展示统计学各学科的模型方法以及数据分析，已发布在[CRAN](http://cran.r-project.org/)上并持续更新中
-
