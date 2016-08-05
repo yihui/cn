@@ -237,7 +237,7 @@ Email：xie@yihui.name；主页：<http://yihui.name/>
 ## 英文论文
 
 1. Yihui Xie, Heike Hofmann, and Xiaoyue Cheng (2014). _Reactive Programming for Interactive Graphics_. Statistical Science, 29(**2**), 201-213. ([PDF](https://bitbucket.org/stat/www/downloads/STS477.pdf))
-1. Yihui Xie (2013) _animation: An R Package for Creating Animations and Demonstrating Statistical Methods_, Journal of Statistical Software (accepted; [draft manuscript](https://github.com/downloads/yihui/yihui.github.com/JSS-animation-2012-Yihui-Xie.pdf))
+1. Yihui Xie (2013) _animation: An R Package for Creating Animations and Demonstrating Statistical Methods_, [Journal of Statistical Software, 53(1)](https://www.jstatsoft.org/article/view/v053i01)
 1. Yihui Xie, Xiaoyue Cheng. _animation: A Package for Statistical Animations_. [R News, 8(2), 2008](http://www.r-project.org/doc/Rnews/Rnews_2008-2.pdf)
 1. 谢益辉，_Visualization of Data and Statistical Models Using R_，第3届“计量模型与中国·澳大利亚自由贸易区发展国际研讨会”论文集，2007年3月（[PDF](https://github.com/downloads/yihui/yihui.github.com/R-visualization-paper-2007-Yihui-Xie.pdf)）
 
