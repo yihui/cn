@@ -3,7 +3,7 @@ layout: post
 title: 递归
 ---
 
-谷歌搜索关键词X的时候可能会自动纠错，问你本来想搜的是Y吧？而搜recursion（递归）的时候会自动卖萌问，你本来想搜的是_recursion_吧？
+谷歌搜索关键词X的时候可能会自动纠错，问你本来想搜的是Y吧？而搜recursion（递归）的时候会自动卖萌问，你本来想搜的是*recursion*吧？
 
 [这里](http://www.newsmth.net/bbscon.php?bid=63&id=3393726)也有个递归：
 

@@ -18,16 +18,20 @@ tags:
 
 我回忆了好半天，还是想不起当初我为什么对LyX留下了一个错误的印象：它生成的LaTeX文档的前四行是无效的。即这样的代码：
 
-    \batchmode
-    \makeatletter
-    \def\input@path{{\string"path/to/some where/\string"/}}
-    \makeatother
+```latex
+\batchmode
+\makeatletter
+{% raw %}\def\input@path{{\string"path/to/some where/\string"/}}{% endraw %} 
+\makeatother
+```
 
 当年我并没有仔细研究第三行，但凭感觉，它是用来定义文档中的外部文件的输入路径的，比如`\includegraphics{}`的根路径。这个感觉并没有错，但当年阴差阳错失败了。我发现LyX的文件名弄乱机制（filename mangling）是因为当时想在Sweave中输出动画，因而需要使用animate包和`\animategraphics{}`命令，但是死活由于找不到输入文件而报错，我花了好几天时间，终于发现原来有这么个机制，以及LyX的编译过程（先复制到临时文件夹再编译）。于是我只好想办法把动画文件先复制到临时文件夹再编译，这当然不是个好办法。还有Sweave，我都是用R脚本把需要的文件复制到LyX的临时文件夹下再让LyX编译，比如需要读入的数据和需要引用的图片文件等。这都是为了让LyX不要抱怨找不到文件。
 
 今天在考虑animation包中的`saveLatex()`如何在Sweave中使用，于是再度看了一下LaTeX的animate宏包的文档，看着看着，突然见到其中有个单词“Important”可以闪动，于是好奇它是怎么做到的，自然也就把源文档找出来看；打开源文档，无意看到这么一句：
 
-    \graphicspath{{files/}}
+```latex
+{% raw %}\graphicspath{{files/}}{% endraw %} 
+```
 
 凭直觉，我觉得这是指定图片文件的根路径，即：文档中的图片引用都以`files/`为基准，在这个文件夹下去寻找。抬手Google了一下，没错，是这样。我想，这不就是我很久以来想要的东西么，只要定义了图片的输入路径，就不必发愁在LyX文档目录和临时文件目录下拷来拷去了。试了一下，对图片`\includegraphics{}`的确管用，但由于我用pgfSweave，图片都是用`\input{}`的方式，这招不管用。
 
