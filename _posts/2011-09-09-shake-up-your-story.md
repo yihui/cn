@@ -21,7 +21,7 @@ TED最新出来的一个5分钟演讲“[Shake up your story](http://www.ted.com
 <embed src="http://video.ted.com/assets/player/swf/EmbedPlayer.swf" pluginspace="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent" bgColor="#ffffff" width="526" height="374" allowFullScreen="true" allowScriptAccess="always" flashvars="vu=http://video.ted.com/talk/stream/2011G/Blank/RaghavaKK_2011G-320k.mp4&su=http://images.ted.com/images/ted/tedindex/embed-posters/RaghavaKK_2011G-embed.jpg&vw=512&vh=288&ap=0&ti=1219&lang=&introDuration=15330&adDuration=4000&postAdDuration=830&adKeys=talk=raghava_kk_shake_up_your_story;year=2011;theme=master_storytellers;theme=art_unusual;event=TEDGlobal+2011;tag=arts;tag=book;tag=creativity;tag=design;tag=entertainment;tag=technology;&preAdTag=tconf.ted/embed;tile=1;sz=512x288;"></embed>
 </object>
 
-另一则视频名为“[绝望的男银](http://www.ted.com/talks/zimchallenge.html)”，说当今的男性如何糟糕如何不如女性，其中在谈某类动作片时，总结了很重要一点社会现象：如今的（男）人总是被诱惑着做事（称之为_arousal_ addictions）。这才是绝望的根源，随着时间推移，需要的诱惑力必须得越来越高，到最后活人只能变成行尸走肉，因为生活越来越难找到乐趣。这是杞人忧天吗？
+另一则视频名为“[绝望的男银](http://www.ted.com/talks/zimchallenge.html)”，说当今的男性如何糟糕如何不如女性，其中在谈某类动作片时，总结了很重要一点社会现象：如今的（男）人总是被诱惑着做事（称之为*arousal* addictions）。这才是绝望的根源，随着时间推移，需要的诱惑力必须得越来越高，到最后活人只能变成行尸走肉，因为生活越来越难找到乐趣。这是杞人忧天吗？
 
 <object width="526" height="374">
 <param name="movie" value="http://video.ted.com/assets/player/swf/EmbedPlayer.swf"></param>

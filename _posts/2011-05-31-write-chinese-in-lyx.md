@@ -31,11 +31,15 @@ tags:
 
 如果你等不及LyX 2.0.1的发布，也可以直接在导言区调用（此时文档类仍然用普通的article）：
 
-    \usepackage{ctexcap}
+```latex
+\usepackage{ctexcap}
+```
 
 或者如果你用Linux并且不需要使用ctex的字体配置，那么可以用（但此时你要么用XeTeX字体，要么用adoblefonts选项并且安装相关Adobe中文字体）：
 
-    \usepackage[nofonts]{ctexcap}
+```latex
+\usepackage[nofonts]{ctexcap}
+```
 
 这和使用上面提到的layout的途径几乎没有差别。
 

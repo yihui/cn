@@ -16,10 +16,10 @@ tags:
 
 ```r
 f = function() {
-     for(i in 1:3){
+    for(i in 1:3){
         plot(rnorm(100))
-        lines(rnorm(100))
-     }
+        lines(rnorm(100))
+    }
 }
 png()
 f()
@@ -29,7 +29,7 @@ dev.off()
 而动画中经常需要点或线的运动，如果只是调用低层函数的话，这些运动不会自动被图形设备记录。后来我对这个问题的解决办法是一律暴力重画，所以在源代码中处处可见这种形式的代码：
 
 ```r
-＃ 依次添加点i
+#＃ 依次添加点i
 for (i in 1:n) {
     plot(x, type = "n")
     points(1:i, x[1:i])
@@ -77,6 +77,6 @@ dev.off()
 
 我觉得樱桃小丸子的片尾曲挺有意思的，昨天晚上我听了好几遍；感兴趣的客官娃娃可以[看看](http://www.tudou.com/programs/view/gZxvUeUTzMg/)。
 
-<embed src="http://www.tudou.com/v/gZxvUeUTzMg/&bid=05&resourceId=0_05_05_99/v.swf" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" wmode="opaque" width="480" height="400"></embed>
+<embed src="http://www.tudou.com/v/gZxvUeUTzMg/&bid=05&resourceId=0_05_05_99/v.swf" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" wmode="opaque" width="480" height="400">
 
 又及：刚才看到还[有人](http://www.xiaobean.com/427.html)也叫“中国群众大学”，我心想这该不会是从我这里看的吧，于是Google了一下，结果发现我排第5，汗，如果仅此而已就不娇客了，真正娇客的地方在，排第3和第4的是真的“中国群众大学”。世上还真有群众大学啊……我又哈哈大笑。

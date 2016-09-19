@@ -29,7 +29,7 @@ tags:
 
 > Regards,  
 Yihui  
-- -  
+---  
 Yihui Xie <***@gmail.com>  
 Phone: 515-294-2465 Web: http://yihui.name  
 Department of Statistics, Iowa State University  
