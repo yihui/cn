@@ -1,6 +1,5 @@
-markdown: redcarpet
+markdown: kramdown
 permalink: /:year/:month/:title/
 url: http://yihui.name/cn
 author: 谢益辉
-highlighter: pygments
-
+highlighter: rouge
