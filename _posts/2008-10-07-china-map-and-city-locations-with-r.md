@@ -14,7 +14,7 @@ tags:
 
 从[cloud_wei的博客](http://hi.baidu.com/cloud_wei/blog/item/b26cbfa9b8e601fa1e17a295.html)上看到一批数据，拿来放在R里面跑一下：
 
-{% highlight r %}
+```r
 par(mar=rep(0,4))
 dat = read.csv(text = "城市,jd,wd
     北 京,116.4666667,39.9
@@ -59,7 +59,7 @@ text(dat$jd, dat$wd, dat[, 1], cex = 0.9, col = rgb(0,
     0, 0, 0.7), pos = c(2, 4, 4, 4, 3, 4, 2, 3, 4, 2, 4, 2, 2,
     4, 3, 2, 1, 3, 1, 1, 2, 3, 2, 2, 1, 2, 4, 3, 1, 2, 2, 4, 4, 2))
 axis(1, lwd = 0); axis(2, lwd = 0); axis(3, lwd = 0); axis(4, lwd = 0)
-{% endhighlight %}
+```
 
 效果如下：
 

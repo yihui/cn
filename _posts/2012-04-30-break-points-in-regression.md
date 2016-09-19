@@ -15,7 +15,7 @@ tags: [线性回归, 拐点, 方差分析, LOWESS]
 
 
 
-{% highlight r %}
+```r
 set.seed(123)
 # 真实模型
 x = sort(runif(100))
@@ -28,7 +28,7 @@ lines(x, fitted(fit1), lwd = 2, col = 2)
 # 斜率不同，截距也不同
 fit2 = lm(y ~ 1 + x + I(x > 0.5) + I((x - 0.5) * (x > 0.5)))
 lines(x, fitted(fit2), lwd = 2, lty = 2)
-{% endhighlight %}
+```
 
 ![plot of chunk linmod](http://i.imgur.com/oicZb.png) 
 
@@ -37,14 +37,14 @@ lines(x, fitted(fit2), lwd = 2, lty = 2)
 
 
 
-{% highlight r %}
+```r
 # 两个嵌套模型做F检验
 anova(fit1, fit2)
-{% endhighlight %}
+```
 
 
 
-{% highlight text %}
+```text
 ## Analysis of Variance Table
 ## 
 ## Model 1: y ~ 1 + x + I((x - 0.5) * (x > 0.5))
@@ -54,7 +54,7 @@ anova(fit1, fit2)
 ## 2     96  88  1      66.6 72.6 2.2e-13 ***
 ## ---
 ## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1 
-{% endhighlight %}
+```
 
 
 
@@ -65,7 +65,7 @@ anova(fit1, fit2)
 
 
 
-{% highlight r %}
+```r
 fit3 = loess(y ~ x, span = 0.2)
 fit4 = loess(y ~ 1 + x + I(x > 0.5) + I((x - 0.5) * (x > 0.5)), span = 1, 
     degree = 1)
@@ -73,17 +73,17 @@ par(mar = c(4, 4, 0, 0), family = "serif", mgp = c(2, 1, 0))
 plot(x, y, pch = 20, col = "darkgray")
 lines(x, fitted(fit3), lwd = 2, col = 2)
 lines(x, fitted(fit4), lwd = 2, lty = 2)
-{% endhighlight %}
+```
 
 ![plot of chunk loess-comparison](http://i.imgur.com/nGVDw.png) 
 
-{% highlight r %}
+```r
 anova(fit3, fit4)
-{% endhighlight %}
+```
 
 
 
-{% highlight text %}
+```text
 ## Model 1: loess(formula = y ~ x, span = 0.2)
 ## Model 2: loess(formula = y ~ 1 + x + I(x > 0.5) + I((x - 0.5) * (x > 0.5)), span = 1, degree = 1)
 ## 
@@ -92,7 +92,7 @@ anova(fit3, fit4)
 ##        ENP  RSS F-value Pr(>F)
 ## [1,] 15.16 83.2               
 ## [2,]  4.02 87.7   0.321   0.99
-{% endhighlight %}
+```
 
 
 
@@ -107,16 +107,16 @@ P值很大，这毫不奇怪，因为真实模型就是按照两段直线构造�
 
 
 
-{% highlight r %}
+```r
 library(ggplot2)
 qplot(x, y) + geom_smooth()  # 总趋势
-{% endhighlight %}
+```
 
 ![plot of chunk loess](http://i.imgur.com/Va7An.png) 
 
-{% highlight r %}
+```r
 qplot(x, y, group = x > 0.5) + geom_smooth()  # 按0.5前后分组
-{% endhighlight %}
+```
 
 ![plot of chunk loess](http://i.imgur.com/J3cg2.png) 
 

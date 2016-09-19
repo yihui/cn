@@ -23,12 +23,12 @@ tags:
 
 感兴趣的客官可以从[GitHub](https://github.com/yihui/formatR)获得最新源代码自行编译安装，注意这个包依赖于**gWidgetsRGtk2**包。初级用户可以从CRAN安装（CRAN上的版本取决于我的提交，可能会有延迟）：
 
-{% highlight r %}
+```r
 ## 启动R，然后
 install.packages('formatR')
 library(formatR)
 ## 将自动启动界面
-{% endhighlight %}
+```
 
 第二个版本中加入了执行代码、字体设置以及其它选项。需要提醒的有两点：
 

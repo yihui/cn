@@ -16,7 +16,7 @@ tags:
 
 如果客观关心这些图是如何画出来的，这里有代码有真相：
 
-{% highlight r %}
+```r
 devAskNewPage(TRUE)
 par(mar = c(0.2, 0.2, 0.2, 0.2), mfrow = c(2, 2))
 for (n in 41:200) {
@@ -32,13 +32,13 @@ for (n in 41:200) {
     box()
     text(0.5, 0.5, n)
 }
-{% endhighlight %}
+```
 
 ## 用作桌面
 
 如果有客官想用这样的图形作桌面的话，也不是件难事：用png()设备把图形记录下来，然后将图形文件设为桌面即可。以我的显示器为例，我的分辨率是1366x768，那么：
     
-{% highlight r %}
+```r
 # 为了保证高质量的PNG图片，这里用附加包cairoDevice
 # 如果读者对图片质量要求不高，也可以用R自带的png()设备
 # 即png("points-desktop.png", width = 1366, height = 768)
@@ -57,7 +57,7 @@ color = apply(replicate(2 * n, sample(c(0:9, LETTERS[1:6]),
     collapse = "")))
 points(center, cex = size, pch = rep(20:21, n), col = color)
 dev.off()
-{% endhighlight %}
+```
 
 这样，我们打开文件`points-desktop.png`（它在当前工作目录下`getwd()`），设定为桌面就可以了。
 

@@ -12,7 +12,7 @@ tags:
 
 若只想要一个粗略的包，其实也很简单，R的**utils**包中提供了一个`package.skeleton()`函数，用它基本上就足够了。
 
-{% highlight text %}
+```text
 package.skeleton            package:utils            R Documentation
 
 Create a Skeleton for a New Source Package
@@ -31,7 +31,7 @@ Usage:
                       environment = .GlobalEnv,
                       path = ".", force = FALSE, namespace = FALSE,
                       code_files = character())
-{% endhighlight %}
+```
 
 
 这个函数会在`path`下面生成一个文件夹，里面包含了`list`中的对象（函数、数据等），接下来我们需要对这个文件夹进行编译，用`R CMD build`就可以了。说实话，很久以来我都完全不知道`R CMD`这一系列命令是怎么用的，昨晚研究了好半天才大致明白，汗。

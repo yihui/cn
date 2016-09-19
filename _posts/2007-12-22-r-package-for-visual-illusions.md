@@ -14,7 +14,7 @@ tags:
 
 比如这里我可以提供我昨天随意写的一段光学幻象代码：
 
-{% highlight r %}
+```r
 # By Yihui XIE, Dec 22, 2007 yihui.name
 op = par(bg = "gray", mar = rep(2, 4), xpd = NA)
 x = seq(0, 2 * pi, length = 16)
@@ -29,7 +29,7 @@ replicate(100, {
   }
 })
 par(op)
-{% endhighlight %}
+```
 
 盯着中间的“**+**”看几秒之后，就会发现“绕圈”的那个点似乎变成绿色了。
 

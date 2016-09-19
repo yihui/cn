@@ -17,7 +17,7 @@ tags:
 
 再次发牢骚的起因是刚才Yang, Q问我上学期成绩的事情，近些天老网站也同样登不进去了，更大的Joke是我从错误页面中发现了极其低级的网站漏洞，登录研究生院的错误信息是这样的：
 
-{% highlight text %}
+```text
 Microsoft VBScript 编译器错误 错误 '800a03f6'
 
 缺少 'End'
@@ -29,11 +29,11 @@ Microsoft OLE DB Provider for ODBC Drivers 错误 '80004005'
 [Microsoft][ODBC SQL Server Driver][TCP/IP Sockets]SQL Server 不存在或访问被拒绝
 
 /xk/include/xk_util.inc，行5
-{% endhighlight %}
+```
 
 最后一行告诉我们有`/xk/include/xk_util.inc`这样一个文件存在，好嘛，我们不妨就来瞅瞅[它究竟是什么](http://202.112.126.188//xk/include/xk_util.inc)，打开一看，乐了，连接数据库的ASP语句、判断用户是否有效的函数等等一览无遗，最可乐的是显然这个函数是很白痴的：
 
-{% highlight text %}
+```text
 <%function isvalid()
 if session("usrid")<>"" and session("usrinfo")<>"" and session("usrpwd")<>"" 
 then
@@ -43,7 +43,7 @@ isvalid="0"
 end 
 ifend 
 function%>
-{% endhighlight %}
+```
 
 仅仅“判断用户ID等信息**是否为空**”这样的做法让我们很容易在登录进去之后通过修改学号等参数达到查看别人信息的目的，我曾干过这种不厚道的事情……谁让程序这么白痴呢……
 

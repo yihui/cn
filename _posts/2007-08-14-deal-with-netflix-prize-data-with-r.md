@@ -13,7 +13,7 @@ tags:
 
 不知道这样一个程序要跑多久：
 
-{% highlight r %}
+```r
 files = list.files("training_set", full.names = T)
 writeLines("movieID,customerID,Rating,ratingDate,movieReleaseDate",
    "training_set.csv")
@@ -24,7 +24,7 @@ for (i in 1:17770) {
    write.table(x, file = "training_set.csv", append = T, sep = ",",
        row.names = F, col.names = F, quote = F)
 }
-{% endhighlight %}
+```
 
 当我没加入第7~8行的`read.csv()`那一句时，程序在WinXP+奔四3.0GHz+512M内存下跑了47分钟把一个2G多的CSV数据文件写完了。不过等我用SQL语句去读其中一列时，发现内存终于不够用了。
 

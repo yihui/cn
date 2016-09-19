@@ -8,7 +8,7 @@ tags: [R, R艺术照]
 
 话说这一天，有人给了这么一段代码，据说其本质好像是是log-log-log函数的取值范围。
 
-{% highlight r %}
+```r
 xrange = c(-15, 15)
 yrange = c(0, 16)
 plot(0, xlim = xrange, ylim = yrange, type = "n")
@@ -34,6 +34,6 @@ yt = h * yt/max(yt)
 x = c(leftE(h), rightE(h), rev(xt), -xt)
 y = c(h, h, rev(yt), yt)
 polygon(x, y, col = "red", border = NA)
-{% endhighlight %}
+```
 
 运行过代码的同志们没喷血吧？……

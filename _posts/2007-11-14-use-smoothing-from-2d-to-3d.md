@@ -30,7 +30,7 @@ tags:
 
 这种思想用R非常容易实现，区区几行代码。要做的事情首先当然是建立一个光滑模型，比如LOESS（局部多项式回归）：`m = loess(z ~ long + lat, ...)`，然后结合long和lat的网格对m作预测，这个网格可以用`grd = expand.grid(long, lat)`生成，然后`predict(m, grd)`就得到一系列z预测值了。然后万事大吉。
 
-{% highlight r %}
+```r
 > expand.grid(long = c(2.24, 4.27, 8.24), lat = c(3.1, 6.4, 7.4))
   long lat
 1 2.24 3.1
@@ -42,5 +42,5 @@ tags:
 7 2.24 7.4
 8 4.27 7.4
 9 8.24 7.4
-{% endhighlight %}
+```
 

@@ -21,7 +21,7 @@ tags:
 
 作为一个懒得推公式的人，我向来喜欢用模拟回答问题，因为模拟的结果非常直截了当。我的考虑是，要看渐近统计量的优劣，那就看随着n增大，统计量和渐近分布有多接近好了。一个自然而然的想法当然是对若干统计量的观测值做分布检验了，比如KS检验。我们知道这两个统计量都是自由度为1的卡方分布，剩下的事情就是计算：
 
-{% highlight r %}
+```r
 set.seed(123)
 nmax = 1000
 p = matrix(nrow = nmax, ncol = 2)
@@ -40,7 +40,7 @@ d$method = factor(d$method, labels = c("McNemar", "LRT"))
 colnames(d)[3] = "p.value"
 qplot(n, p.value, data = d, shape = method, geom = c("smooth", "point")) +
     scale_shape_manual(values = c(2, 3))
-{% endhighlight %}
+```
 
 ![McNemar检验统计量与卡方分布拟合的好坏](http://i.imgur.com/0sn2Hjr.png)
 

@@ -15,19 +15,19 @@ tags:
 
 Jekyll完全推翻了传统网站的维护方式，它直接回到了“原点”——作者只需要维护文本文件，每一篇日志就是一个文件，程序会根据模板设置自动把这些文本文件翻译为网页。这些文本文件不用HTML，而是用简化版本的Markdown（MD）或者其它可最终翻译为HTML的伪标记语言。MD的哲学深得我心：把[语法](http://daringfireball.net/projects/markdown/)简化90%，去实现大多数常用的HTML标签，牺牲少数不常用的标签（这些标签仍然可以用原始的HTML代码写）。比如要写无序列表的话，在HTML里面要用
 
-{% highlight html %}
+```html
 <ul>
   <li>hello</li>
   <li>world</li>
 </ul>
-{% endhighlight %}
+```
 
 每一项列表项都用`li`标签围起来，而在MD语法里，只需要一行一行写就行了，每一行开头写一个减号 `-` 就足够，就像自己记笔记一样：
 
-{% highlight text %}
+```text
 - hello
 - world
-{% endhighlight %}
+```
 
 一个字符（确切地说是两个，后面还得跟个空格）和一串要重复敲的字符比，哪个简洁显而易见。简洁的MD语法配合几项YAML设置就是一篇日志，扔进Liquid模版系统，Jekyll就把网站编译出来了。
 

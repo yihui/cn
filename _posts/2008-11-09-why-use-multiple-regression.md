@@ -61,7 +61,7 @@ tags:
 
 数据来源：
 
-{% highlight r %}
+```r
 set.seed(711)
 x = seq(0, 4, length = 100)
 y = -x + jitter(rep(1:5, each = 20), 2)
@@ -73,6 +73,6 @@ plot(x, y, pch = 20, col = z)
 lines(lowess(x, y, f = 0.1), col = "red")
 summary(lm(y ~ x))
 summary(lm(y ~ x + z))
-{% endhighlight %}
+```
 
 注意本例中局部平滑函数`lowess()`函数的应用。

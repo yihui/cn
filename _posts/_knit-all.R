@@ -1,13 +1,12 @@
 #!/usr/bin/env Rscript
 
 library(knitr)
-render_jekyll()
 opts_chunk$set(cache = TRUE)
 opts_knit$set(upload.fun = imgur_upload)
 
 local({
   all.md = list.files(pattern = '^_.*\\.Rmd$')
-  
+
   for (f in all.md) {
     b = gsub('^_|\\.Rmd$', '', f)
     unlink(paste0(b, '.html'))

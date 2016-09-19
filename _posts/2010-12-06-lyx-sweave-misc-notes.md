@@ -32,10 +32,10 @@ Sweave支持一个`\SweaveInput{}`命令，话说我用了这么久，完全没�
 
 现在的工作基本上全面转向Git；各大支持Git的网站中，可能GitHub是最好用的，大大提高了程序开发效率。尤其是其代码行内评论的功能，很是方便交流。有了[前面介绍的Rd2roxygen包](/cn/2010/12/rd2roxygen-to-convenient-r-documentation/)之后，开发R包也轻松多了，基本上就是在Emacs里`C-c C-o`，完事之后终端打开R，运行一下两句代码的事情：
 
-{% highlight r %}
+```r
 library(Rd2roxygen)
 rab('your.pkg')
-{% endhighlight %}
+```
 
 现在再加上LyX/Sweave这把刀也磨好了，于是写Vignette也不在话下。人挡杀人，佛挡杀佛。最终有了勇气把那些塞到犄角旮旯的老R包都捡出来，继续开发。上周[animation](https://github.com/yihui/animation)和[formatR](https://github.com/yihui/formatR)分别更新了新版本；Rd2roxygen也放了新版本（为了更加懒惰）；老早以前的那个[fun包](https://github.com/yihui/fun)也复活过来，再把文档整理一下，大概也是可以正式发布的。怡轩还翻出了另一个老想法：在R中原生支持生成Flash动画。现在已经完成了从PNG图形到SWF的转换，所有结果都在一个[新包R2SWF](https://github.com/yihui/R2SWF)中（将来也许会合并到animation中）。
 

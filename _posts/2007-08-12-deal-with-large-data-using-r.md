@@ -21,7 +21,7 @@ tags:
 
 以下是一个R程序示例：
 
-{% highlight r %}
+```r
 # 生成一个随机的Poisson矩阵
 > x = apply(matrix(rpois(1e+05, 5), ncol = 10), 2, as.integer)
 > colnames(x) = LETTERS[1:10] 将列命名为A-J的十个字母
@@ -82,7 +82,7 @@ tags:
  10  2 2
 > odbcClose(channel) 关闭ODBC连接
 > file.remove(f) 删掉前面生成的三个文件
-{% endhighlight %}
+```
  
 
 ![新建数据源（控制面板-->管理工具-->数据源 (ODBC)；添加）](http://i.imgur.com/rdlDQ.png)
