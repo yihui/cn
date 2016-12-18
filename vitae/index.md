@@ -269,11 +269,43 @@ Email：xie@yihui.name；主页：<http://yihui.name>；现居住于美国内布
 
 ## 软件（包）
 
-- [knitr](http://yihui.name/knitr/)：自动化生成报告的R包，Sweave的替代品
+### R包
+
+作为主要作者：
+
+- [knitr](https://github.com/yihui/knitr)：自动化生成报告，思想源于文学化编程和Sweave，昌盛于Markdown
+- [bookdown](https://github.com/rstudio/bookdown): 用R Markdown进行书籍和技术文档写作
+- [xaringan](https://github.com/yihui/xaringan)：幻灯忍者（基于R Markdown和remark.js的幻灯片包）
+- [blogdown](https://github.com/rstudio/blogdown)：用R Markdown和Hugo创建网站
+- [tufte](https://github.com/rstudio/tufte)：R Markdown的Tufte样式
+- [servr](https://github.com/rstudio/servr)：用R创建一个本地网站服务器，在浏览器中显示本地文件
+- [animation](https://github.com/yihui/animation)：用动画展示统计学各学科的模型方法以及数据分析
 - [testit](https://github.com/yihui/testit)：用于R包的单元测试
-- [Rd2roxygen](http://cran.r-project.org/package=Rd2roxygen)：将R文档转化为roxygen注释，实现在源代码中以注释的形式写文档，方便R包的长期开发，同时包含一个改善roxygen功能的小工具`rab()`，让包的编译更加方便高效
-- 基于Qt和R的统计图形包，开发中（[视频示例](http://vimeo.com/yihui/)）
-- [iBUGS](http://cran.r-project.org/web/packages/iBUGS/index.html)：方便WinBUGS/OpenBUGS用户在R中调用的包，基于gWidgets包做了图形用户界面
-- [formatR](http://cran.r-project.org/package=formatR)：格式化R代码的包，自动添加空格和缩进
-- 维基系统[Dokuwiki](http://wiki.splitbrain.org/wiki:dokuwiki)插件"[animation](http://animation.yihui.name/wiki:animation_plugin)"：在维基页面中嵌入动画，基于PHP和JavaScript完成
-- R程序包"[animation](http://cran.r-project.org/package=animation)"：用动画展示统计学各学科的模型方法以及数据分析，已发布在[CRAN](http://cran.r-project.org/)上并持续更新中
+- [formatR](https://github.com/yihui/formatR)：格式化R代码的包，自动添加空格和缩进
+- [DT](https://github.com/rstudio/DT)：JavaScript库DataTables的R接口
+- [mime](https://github.com/yihui/mime)：从文件名猜测MIME类型
+- [highr](https://github.com/yihui/highr)：R代码高亮
+- [printr](https://github.com/yihui/printr)：为knitr提供一些自动打印方法，如将数据框自动输出为表格
+- [Rd2roxygen](https://github.com/yihui/Rd2roxygen)：将R文档转化为roxygen注释，实现在源代码中以注释的形式写文档，方便R包的长期开发，同时包含一个改善roxygen功能的小工具`rab()`，让包的编译更加方便高效
+- [R2SWF](https://github.com/yihui/R2SWF)，[MSG](https://github.com/yihui/MSG)，[iBUGS](https://github.com/yihui/iBUGS)，[fun](https://github.com/yihui/fun)，[等等](http://depsy.org/person/329908)
+
+作为贡献者：
+
+- [rmarkdown](https://github.com/rstudio/rmarkdown): R Markdown文档工具
+- [shiny](https://github.com/rstudio/shiny)：基于R的网络应用
+- [evaluate](https://github.com/hadley/evaluate)：解析、运行R代码
+- [htmlwidgets](https://github.com/ramnathv/htmlwidgets)：基于R的HTML控件
+- [leaflet](https://github.com/rstudio/leaflet)：交互式地图
+- [htmltools](https://github.com/rstudio/htmltools)：HTML工具
+- [roxygen2](https://github.com/klutometis/roxygen)：在源文件中直接写R文档
+- [tikzDevice](https://github.com/yihui/tikzDevice)：将R图形输出为LaTeX/TikZ格式
+- [cranvas](https://github.com/ggobi/cranvas/)：基于Qt和R的交互式统计图形包（基本已经停止维护）
+
+### PHP程序
+
+- 维基系统Dokuwiki插件"[animation](http://www.dokuwiki.org/plugin:animation)"：在维基页面中嵌入动画
+- Wordpress插件[UTF-8 DB Converter](http://wordpress.org/extend/plugins/utf-8-db-converter/)
+
+### 其它
+
+- LyX中的Sweave和knitr模块
