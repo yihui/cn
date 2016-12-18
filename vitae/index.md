@@ -117,7 +117,7 @@ Email：xie@yihui.name；主页：<http://yihui.name>；现居住于美国内布
 
 - 谢益辉，2016，_bookdown: Authoring Books with R Markdown_，科罗拉多大学统计系（[幻灯片](http://slides.yihui.name/2016-CSU-bookdown-Yihui-Xie.html)）
 - 谢益辉，2016，漫谈一些我认为有趣和有用的R包，科罗拉多大学统计系
-- 谢益辉，2016，_Authoring Books with R Markdown_，RStudio网络报告（[幻灯片](http://slides.yihui.name/2016-webinar-bookdown-Yihui-Xie.html); [video](https://www.rstudio.com/resources/webinars/introducing-bookdown/)）
+- 谢益辉，2016，_Authoring Books with R Markdown_，RStudio网络报告（[幻灯片](http://slides.yihui.name/2016-webinar-bookdown-Yihui-Xie.html); [视频](https://www.rstudio.com/resources/webinars/introducing-bookdown/)）
 - 谢益辉，2016，_Reproducibility in Statistics and Data Science (Discussion)_，JSM 2016，芝加哥（[幻灯片](http://slides.yihui.name/2016-repro-JSM-Yihui-Xie.html)）
 - 谢益辉，2016，_HTML Widgets: Interactive Visualizations from R Made Easy!_，JSM 2016，芝加哥（[幻灯片](http://slides.yihui.name/2016-htmlwidgets-JSM-Yihui-Xie.html)）
 - 谢益辉，Hadley Wickham，2016，_Authoring Books with R Markdown_，useR! 2016会议报告，斯坦福大学（[幻灯片](http://slides.yihui.name/2016-useR-bookdown-Yihui-Xie.html)）
@@ -137,7 +137,7 @@ Email：xie@yihui.name；主页：<http://yihui.name>；现居住于美国内布
 - 谢益辉，2015，_Reproducible Reports with Big Data_，Strata会议，纽约（[幻灯片](http://conferences.oreilly.com/strata/big-data-conference-ny-2015/public/schedule/detail/44154)）
 - 谢益辉，2015，黄粱十载梦，中国人民大学统计学院远程报告（[幻灯片](http://slides.yihui.name/2015-RUC-alumni-sympo-Yihui-Xie.html)）
 - 谢益辉，2015，_Escape the Land of LaTeX/Word for Statistical Reporting: The Ecosystem of R Markdown_
-    - 03/13月，Wright State University，Dayton，俄亥俄州（[幻灯片](http://slides.yihui.name/2015-Wright-State-Yihui-Xie.html)）
+    - 03/13，Wright State University，Dayton，俄亥俄州（[幻灯片](http://slides.yihui.name/2015-Wright-State-Yihui-Xie.html)）
     - 07/14，爱荷华R用户小组报告
     - 09/03，美国统计学会网络讲座（[幻灯片](https://docs.google.com/presentation/d/1RJeypFW1y9vtG_kCoREN5D16jX3KNrc_qzGMGygQs2E/edit?usp=sharing)）
     - 10/28，RStudio网络讲座（[幻灯片](https://github.com/rstudio/webinars/blob/master/13-R-Markdown-Ecosystem)；[视频](https://vimeo.com/143893476)）
