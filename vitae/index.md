@@ -267,9 +267,9 @@ Email：xie@yihui.name；主页：<http://yihui.name>；现居住于美国内布
 
 统计之都文章参见[这里](http://cos.name/author/yihui/)。
 
-## 软件（包）
+# 软件包
 
-### R包
+## R包
 
 作为主要作者：
 
@@ -301,11 +301,11 @@ Email：xie@yihui.name；主页：<http://yihui.name>；现居住于美国内布
 - [tikzDevice](https://github.com/yihui/tikzDevice)：将R图形输出为LaTeX/TikZ格式
 - [cranvas](https://github.com/ggobi/cranvas/)：基于Qt和R的交互式统计图形包（基本已经停止维护）
 
-### PHP程序
+## PHP程序
 
 - 维基系统Dokuwiki插件"[animation](http://www.dokuwiki.org/plugin:animation)"：在维基页面中嵌入动画
 - Wordpress插件[UTF-8 DB Converter](http://wordpress.org/extend/plugins/utf-8-db-converter/)
 
-### 其它
+## 其它
 
 - LyX中的Sweave和knitr模块
