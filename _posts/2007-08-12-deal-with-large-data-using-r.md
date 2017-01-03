@@ -85,10 +85,10 @@ tags:
 ```
  
 
-![新建数据源（控制面板-->管理工具-->数据源 (ODBC)；添加）](http://i.imgur.com/rdlDQ.png)
+![新建数据源（控制面板-->管理工具-->数据源 (ODBC)；添加）](https://i.imgur.com/rdlDQ.png)
 图1：新建数据源（控制面板-->管理工具-->数据源 (ODBC)；添加）
 
-![Microsoft Text Driver](http://i.imgur.com/3GH3V.png)
+![Microsoft Text Driver](https://i.imgur.com/3GH3V.png)
 图2：Microsoft Text Driver
 
 用R处理完数据之后，预处理过程才算真正结束了，这里要特别提一句的是，由于R的`save()`函数默认采用二进制存储方式（而不是直接存储ASCII字符），数据的大小便可以被大幅度压缩，最后以二进制数据形式存储的这90个变量大小之和才50M左右——数据大小被压缩到原来的1/10。

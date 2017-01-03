@@ -1,5 +1,5 @@
 markdown: kramdown
 permalink: /:year/:month/:title/
-url: http://yihui.name/cn
+url: /cn
 author: 谢益辉
 highlighter: rouge

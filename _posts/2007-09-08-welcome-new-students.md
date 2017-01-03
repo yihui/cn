@@ -11,5 +11,5 @@ tags:
 
 据说某校有这样一个横幅：
 
-![开学了，谁最欢迎新生](http://i.imgur.com/y4owt.jpg)
+![开学了，谁最欢迎新生](https://i.imgur.com/y4owt.jpg)
 
